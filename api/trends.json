@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-06T00:12:46.171796+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-06T01:11:04.861502+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际形势 台湾 美国 日本 俄罗斯",
-      "match_count": 49,
+      "match_count": 66,
       "titles": [
-        {
-          "title": "欧洲车企Stellantis将生产转移至美国后，加拿大政府对其发出5亿加元援助合同违约通知",
-          "url": "https://wallstreetcn.com/livenews/3016049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
         {
           "title": "中方愿同俄方配合坚决遏制日本挑衅",
           "url": "https://www.toutiao.com/trending/7579724784825679910/",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
         },
         {
           "title": "阻挠中国出席G7峰会 日本想多了",
@@ -37,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
         },
         {
           "title": "日方声称中国在日本周边加强军事活动，中方回应",
@@ -48,41 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（12月4日）担保隔夜融资利率（SOFR）报3.92%，之前一天报3.95%。 上个交易日有效的联邦基金利率报3.89%，之前一天报3.89%。",
-          "url": "https://wallstreetcn.com/livenews/3016048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "美国民主党参议员沃伦：拟议中的奈飞与华纳兄弟的交易是“反垄断噩梦”，将推高消费者成本并限制选择。",
-          "url": "https://flash.jin10.com/detail/20251205233139508800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "据媒体报道：七国集团（G7）和欧盟正在就取消对俄罗斯的石油价格上限进行谈判。 G7和欧盟正在商讨对俄罗斯实施全面禁令，禁止其使用海运服务以扰乱其石油出口。",
-          "url": "https://wallstreetcn.com/livenews/3016046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
         },
         {
           "title": "“日本人应该清醒地认识到这件事！”",
@@ -92,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
         },
         {
           "title": "高市早苗食言，自民党为加速军扩计划增税，日本网民强烈不满",
@@ -103,41 +59,275 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "亚特兰大联储GDPNow模型预计美国第三季度GDP增速为3.5%，此前预计为3.8%。",
+          "url": "https://flash.jin10.com/detail/20251206003500873800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
+        },
+        {
+          "title": "美国总统特朗普表示，他可能会在国际足联会议上与墨西哥总统会面。",
+          "url": "https://flash.jin10.com/detail/20251206003419043800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "俄罗斯数百辆保时捷突遭锁死断电，疑遭卫星干扰，部分奔驰、奥迪、大众也出现类似故障，具体情况如何？",
+          "url": "https://www.zhihu.com/question/1979554706322892326",
+          "source": "知乎",
+          "ranks": [
+            15,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "消息人士称，美国特使威特科夫与乌克兰国家安全与国防委员会秘书乌梅罗夫周四在迈阿密会面，并将于周五再次会晤。",
+          "url": "https://flash.jin10.com/detail/20251206002742535800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "欧洲车企Stellantis将生产转移至美国后，加拿大政府对其发出5亿加元援助合同违约通知",
+          "url": "https://wallstreetcn.com/livenews/3016049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（12月4日）担保隔夜融资利率（SOFR）报3.92%，之前一天报3.95%。 上个交易日有效的联邦基金利率报3.89%，之前一天报3.89%。",
+          "url": "https://wallstreetcn.com/livenews/3016048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "美国民主党参议员沃伦：拟议中的奈飞与华纳兄弟的交易是“反垄断噩梦”，将推高消费者成本并限制选择。",
+          "url": "https://flash.jin10.com/detail/20251205233139508800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "据媒体报道：七国集团（G7）和欧盟正在就取消对俄罗斯的石油价格上限进行谈判。 G7和欧盟正在商讨对俄罗斯实施全面禁令，禁止其使用海运服务以扰乱其石油出口。",
+          "url": "https://wallstreetcn.com/livenews/3016046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时11分]"
         },
         {
           "title": "美国民主党参议员沃伦：奈飞(NFLX.O)与华纳兄弟探索公司(WBD.O)的收购交易是“一场噩梦”。",
           "url": "https://flash.jin10.com/detail/20251205233029732800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时11分]"
         },
         {
           "title": "美国能源部长：最好的生产商能在50美元/桶的价格生产石油。",
           "url": "https://wallstreetcn.com/livenews/3016044",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "中俄就涉日本问题达成高度共识",
+          "url": "https://www.cls.cn/detail/2221021",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "为什么一开始复联就默认了美国队长的领导身份？",
+          "url": "https://www.zhihu.com/question/323768487",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "在台湾海峡等集结船只？外交部回应",
+          "url": "https://www.toutiao.com/trending/7580112034243805226/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "日本冲绳举行集会要求高市早苗谢罪",
+          "url": "https://www.toutiao.com/trending/7580288007694368814/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "东大亮出稀土大棒专敲日本小头",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347738&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%A4%A7%E6%A3%92%E4%B8%93%E6%95%B2%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A4%B4",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "周柯宇退出美国国籍",
+          "url": "https://www.douyin.com/hot/2327147",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
         },
         {
           "title": "美国上诉法庭：总统特朗普可以“毫无根据”地解雇劳工与就业委员会成员。",
           "url": "https://wallstreetcn.com/livenews/3016043",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "美国卫生部长RFK Jr.（小罗伯特·F·肯尼迪）的疫苗小组削弱了对婴儿乙型肝炎疫苗的推荐力度，取消了普遍接种指南。",
+          "url": "https://wallstreetcn.com/livenews/3016041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "美国消费者信心五个月以来首次上升",
+          "url": "https://wallstreetcn.com/livenews/3016039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "俄罗斯境内数千辆保时捷集体「变砖」，疑似车企搞远程「锁车」破坏，怎么锁的？不依赖厂家能否修复？",
+          "url": "https://www.zhihu.com/question/1979620058331375588",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 01时11分]"
+        },
+        {
+          "title": "美国总统特朗普：已经安排会见加拿大总理卡尼和墨西哥总统辛鲍姆的事宜。",
+          "url": "https://wallstreetcn.com/livenews/3016063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
+        },
+        {
+          "title": "加拿大总理卡尼将在下周FIFA活动之前会见墨西哥总统辛鲍姆和美国总统特朗普。（PMO）",
+          "url": "https://wallstreetcn.com/livenews/3016062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "美国华盛顿巡回上诉法院小组以2比1的投票结果裁定，特朗普有权解雇美国国家劳工关系委员会和美国联邦人事管理委员会的成员。",
@@ -151,59 +341,37 @@
           "time_info": "00时12分"
         },
         {
-          "title": "美国卫生部长RFK Jr.（小罗伯特·F·肯尼迪）的疫苗小组削弱了对婴儿乙型肝炎疫苗的推荐力度，取消了普遍接种指南。",
-          "url": "https://wallstreetcn.com/livenews/3016041",
+          "title": "美元兑瑞郎跌约0.2%，刷新日低至0.8054。 瑞士政府公布的一份谈判授权草案显示，瑞士愿意向美国做出更多让步，如果能够换取特朗普政府更低的关税，以敲定11月达成的初步协议。",
+          "url": "https://wallstreetcn.com/livenews/3016061",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
         },
         {
-          "title": "中俄就涉日本问题达成高度共识",
-          "url": "https://www.cls.cn/detail/2221021",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "为什么一开始复联就默认了美国队长的领导身份？",
-          "url": "https://www.zhihu.com/question/323768487",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "美国消费者信心五个月以来首次上升",
-          "url": "https://wallstreetcn.com/livenews/3016039",
+          "title": "美国总统特朗普：将与墨西哥总统辛鲍姆讨论贸易、移民等问题。",
+          "url": "https://wallstreetcn.com/livenews/3016055",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
         },
         {
-          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
-          "source": "澎湃新闻",
+          "title": "据悉G7和欧盟考虑禁止俄罗斯石油出口海运服务，取代油价上限",
+          "url": "https://flash.jin10.com/detail/20251206000422514800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
         },
         {
           "title": "美国9月核心PCE不及预期 为美联储进一步降息亮绿灯",
@@ -228,26 +396,37 @@
           "time_info": "00时12分"
         },
         {
-          "title": "日本冲绳举行集会要求高市早苗谢罪",
-          "url": "https://www.toutiao.com/trending/7580288007694368814/",
-          "source": "今日头条",
+          "title": "消息人士：七国集团和欧盟正在就取消对俄罗斯的石油价格上限进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251205235701029800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
         },
         {
-          "title": "俄罗斯数百辆保时捷突遭锁死断电，疑遭卫星干扰，部分奔驰、奥迪、大众也出现类似故障，具体情况如何？",
-          "url": "https://www.zhihu.com/question/1979554706322892326",
-          "source": "知乎",
+          "title": "美国国务卿卢比奥声称：欧盟对X（原名推特）罚款是“对美国科技平台行业的全面攻击”。",
+          "url": "https://wallstreetcn.com/livenews/3016052",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
+        },
+        {
+          "title": "消息人士：七国集团和欧盟正在商讨对俄罗斯实施全面禁令，禁止其使用海运服务以扰乱其石油出口。",
+          "url": "https://flash.jin10.com/detail/20251205235635588800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "美国9月实际个人消费支出(PCE)环比 0%，预期 0.1%，前值 0.4%。",
@@ -272,15 +451,15 @@
           "time_info": "00时12分"
         },
         {
-          "title": "东大亮出稀土大棒专敲日本小头",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347738&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%A4%A7%E6%A3%92%E4%B8%93%E6%95%B2%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A4%B4",
-          "source": "贴吧",
+          "title": "哈塞特支持关于美国地区联储主席应来自本地区的提议",
+          "url": "https://wallstreetcn.com/livenews/3016050",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
         },
         {
           "title": "美国9月份消费者支出增速放缓 经济现“K型”分化",
@@ -305,17 +484,6 @@
           "time_info": "00时12分"
         },
         {
-          "title": "在台湾海峡等集结船只？外交部回应",
-          "url": "https://www.toutiao.com/trending/7580112034243805226/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
           "title": "美国货币监理署（OCC）、美国联邦存款保险公司：杠杆贷款监管指导意见过于严苛；预计银行将按照安全稳健放贷的一般性原则，管理其杠杆贷款敞口。",
           "url": "https://flash.jin10.com/detail/20251205231118789800",
           "source": "金十数据",
@@ -325,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "PBS记者：美国中东问题特使威特科夫与乌克兰谈判代表乌梅罗夫今日将再次会面。",
+          "url": "https://flash.jin10.com/detail/20251205235225640800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "美国9月核心PCE物价指数同比 2.83%，预期 2.8%，前值 2.9%。",
@@ -349,6 +528,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "日本最早明年成立国家情报局",
+          "url": "https://flash.jin10.com/detail/20251205235214352800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
           "title": "美国9月PCE物价指数环比 0.3%，预期 0.3%，前值 0.3%。",
           "url": "https://wallstreetcn.com/livenews/3016029",
           "source": "华尔街见闻-快讯",
@@ -358,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "美国能源部长赖特：在油价跌到每桶50美元时，最好的生产商仍能盈利",
+          "url": "https://flash.jin10.com/detail/20251205234940087800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "美国9月个人消费支出(PCE)环比 0.3%，预期 0.3%，前值 0.6%。",
@@ -393,17 +594,6 @@
           "time_info": "00时12分"
         },
         {
-          "title": "周柯宇退出美国国籍",
-          "url": "https://www.douyin.com/hot/2327147",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
           "title": "美国国债收益率在PCE数据公布后小幅延续涨势，10年期收益率报4.116%。",
           "url": "https://flash.jin10.com/detail/20251205230344368800",
           "source": "金十数据",
@@ -413,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "美国疫苗顾问建议终止长期存在的提倡所有婴儿出生时接种乙肝疫苗的建议。",
+          "url": "https://flash.jin10.com/detail/20251205234601500800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "美国12月密歇根大学5年通胀预期初值 3.2，预期 3.4，前值 3.4。",
@@ -550,47 +751,116 @@
     },
     {
       "keyword_group": "价格 黄金 石油",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
           "title": "现货黄金向上触及4250美元/盎司，日内涨约1%。",
           "url": "https://flash.jin10.com/detail/20251205233104531800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时11分]"
         },
         {
           "title": "现货白银涨穿59美元，刷新历史高位至59.0697美元，当前涨幅3.4%。 纽约黄金日内涨幅达1.0%，报4285.5美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3016040",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时11分]"
         },
         {
           "title": "调查结果发现，石油输出国组织（OPEC，欧佩克）石油产量于11月份维持在略微超过2900万桶/日的水平。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3016036",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "现货黄金日内转跌，最低至4202美元/盎司，较高位回落超50美元。",
+          "url": "https://flash.jin10.com/detail/20251206001819902800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
+        },
+        {
+          "title": "伦敦金银市场协会（LBMA）：截至2025年11月底，伦敦金库中的黄金持有量为8907吨（较上月增加0.55%）。",
+          "url": "https://flash.jin10.com/detail/20251206001256027800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "现货黄金短线下挫27美元，现报4219美元/盎司；现货白银短线下挫近0.8美元，现报58.43美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251206001140716800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "现货白银脱离历史最高位59.3336美元/盎司，回落至58美元下方，涨幅收窄至大约2%。 现货黄金脱离盘中最高位4259.34美元，转跌并一度失守4200美元。",
+          "url": "https://wallstreetcn.com/livenews/3016054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "调查显示欧佩克上月石油产量保持稳定",
+          "url": "https://flash.jin10.com/detail/20251205234836296800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3016064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
@@ -599,8 +869,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时11分]"
         },
         {
           "title": "软银洽谈收购数据中心私募DigitalBridge，希望借机把握AI基础设施热潮",
