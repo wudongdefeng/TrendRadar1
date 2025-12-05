@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T04:03:07.321360+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2025-12-06T05:03:10.491661+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际形势 台湾 美国 日本 俄罗斯",
-      "match_count": 90,
+      "match_count": 95,
       "titles": [
         {
           "title": "中方愿同俄方配合坚决遏制日本挑衅",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
           "title": "阻挠中国出席G7峰会 日本想多了",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
           "title": "日方声称中国在日本周边加强军事活动，中方回应",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
           "title": "“日本人应该清醒地认识到这件事！”",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
           "title": "高市早苗食言，自民党为加速军扩计划增税，日本网民强烈不满",
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
           "title": "俄罗斯数百辆保时捷突遭锁死断电，疑遭卫星干扰，部分奔驰、奥迪、大众也出现类似故障，具体情况如何？",
@@ -73,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
           "title": "为什么一开始复联就默认了美国队长的领导身份？",
@@ -83,11 +83,91 @@
           "ranks": [
             9,
             13,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时03分]"
+        },
+        {
+          "title": "在台湾海峡等集结船只？外交部回应",
+          "url": "https://www.toutiao.com/trending/7580112034243805226/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            14,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时03分]"
+        },
+        {
+          "title": "日本冲绳举行集会要求高市早苗谢罪",
+          "url": "https://www.toutiao.com/trending/7580288007694368814/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            19,
+            21,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时03分]"
+        },
+        {
+          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时03分]"
+        },
+        {
+          "title": "东大亮出稀土大棒专敲日本小头",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347738&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%A4%A7%E6%A3%92%E4%B8%93%E6%95%B2%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A4%B4",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时03分]"
+        },
+        {
+          "title": "周柯宇退出美国国籍",
+          "url": "https://www.douyin.com/hot/2327147",
+          "source": "抖音",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时03分]"
+        },
+        {
+          "title": "俄罗斯境内数千辆保时捷集体「变砖」，疑似车企搞远程「锁车」破坏，怎么锁的？不依赖厂家能否修复？",
+          "url": "https://www.zhihu.com/question/1979620058331375588",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 05时03分]"
         },
         {
           "title": "中俄就涉日本问题达成高度共识",
@@ -101,123 +181,63 @@
           "time_info": "[00时12分 ~ 04时03分]"
         },
         {
-          "title": "在台湾海峡等集结船只？外交部回应",
-          "url": "https://www.toutiao.com/trending/7580112034243805226/",
-          "source": "今日头条",
+          "title": "美国10月消费信贷 91.8亿美元，预期105亿美元，前值130.93亿美元。",
+          "url": "https://flash.jin10.com/detail/20251206040033600800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            14,
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
-          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
-          "source": "澎湃新闻",
+          "title": "提醒：美国商品期货交易委员会（CFTC）补发10月28日当周的持仓报告。 其中，大豆净多头头寸增加83,160手合约，WTI原油净多头头寸增加34,585手合约，黄金增加13,501手合约。",
+          "url": "https://wallstreetcn.com/livenews/3016116",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            14,
-            15
+            4
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
-          "title": "日本冲绳举行集会要求高市早苗谢罪",
-          "url": "https://www.toutiao.com/trending/7580288007694368814/",
-          "source": "今日头条",
+          "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
+          "url": "https://flash.jin10.com/detail/20251206034533252800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            19,
-            21
+            5
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
-          "title": "东大亮出稀土大棒专敲日本小头",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347738&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%A4%A7%E6%A3%92%E4%B8%93%E6%95%B2%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%A4%B4",
-          "source": "贴吧",
+          "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
+          "url": "https://wallstreetcn.com/livenews/3016084",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            19
+            1,
+            11,
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时03分]"
-        },
-        {
-          "title": "周柯宇退出美国国籍",
-          "url": "https://www.douyin.com/hot/2327147",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 05时03分]"
         },
         {
           "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
           "url": "https://flash.jin10.com/detail/20251206033944574800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
-          "url": "https://wallstreetcn.com/livenews/3016109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "俄罗斯境内数千辆保时捷集体「变砖」，疑似车企搞远程「锁车」破坏，怎么锁的？不依赖厂家能否修复？",
-          "url": "https://www.zhihu.com/question/1979620058331375588",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            14
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时10分 ~ 04时03分]"
-        },
-        {
-          "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
-          "url": "https://flash.jin10.com/detail/20251206033847426800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "美国原油期货收涨至60美元关口上方，纽约天然气本周涨9%",
-          "url": "https://wallstreetcn.com/livenews/3016107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时03分"
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 05时03分]"
         },
         {
           "title": "亚特兰大联储GDPNow模型预计美国第三季度GDP增速为3.5%，此前预计为3.8%。",
@@ -246,17 +266,16 @@
           "time_info": "[00时12分 ~ 02时02分]"
         },
         {
-          "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
-          "url": "https://wallstreetcn.com/livenews/3016084",
-          "source": "华尔街见闻-快讯",
+          "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
+          "url": "https://flash.jin10.com/detail/20251206033847426800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            11,
-            20
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时03分]"
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 05时03分]"
         },
         {
           "title": "美国总统特朗普表示，他可能会在国际足联会议上与墨西哥总统会面。",
@@ -270,6 +289,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时11分 ~ 03时02分]"
+        },
+        {
+          "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
+          "url": "https://wallstreetcn.com/livenews/3016109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 05时03分]"
         },
         {
           "title": "美国参议院银行委员会民主党成员们向总统特朗普的共和党阵营施压。 他们要求联邦住房金融局(FHFA)局长Bill Pulte在2026年1月（底）之前出席听证会。",
@@ -319,6 +350,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 01时11分]"
+        },
+        {
+          "title": "美国原油期货收涨至60美元关口上方，纽约天然气本周涨9%",
+          "url": "https://wallstreetcn.com/livenews/3016107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 05时03分]"
         },
         {
           "title": "美国民主党参议员沃伦：奈飞(NFLX.O)与华纳兄弟探索公司(WBD.O)的收购交易是“一场噩梦”。",
@@ -383,6 +426,32 @@
           "time_info": "[01时11分 ~ 03时02分]"
         },
         {
+          "title": "石油价格分析公司Platts将忽略由俄罗斯石油产生的燃料产品。",
+          "url": "https://wallstreetcn.com/livenews/3016088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
+        },
+        {
+          "title": "贝克休斯：美国钻井公司在五周内第四次增加石油和天然气钻井平台。",
+          "url": "https://flash.jin10.com/detail/20251206020252090800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
+        },
+        {
           "title": "美元兑瑞郎跌约0.2%，刷新日低至0.8054。 瑞士政府公布的一份谈判授权草案显示，瑞士愿意向美国做出更多让步，如果能够换取特朗普政府更低的关税，以敲定11月达成的初步协议。",
           "url": "https://wallstreetcn.com/livenews/3016061",
           "source": "华尔街见闻-快讯",
@@ -409,6 +478,84 @@
           "time_info": "[02时02分 ~ 04时03分]"
         },
         {
+          "title": "美国12月5日当周天然气钻井数 129，前值 130。",
+          "url": "https://wallstreetcn.com/livenews/3016087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
+        },
+        {
+          "title": "美国至12月5日当周总钻井总数 549口，前值544口。",
+          "url": "https://flash.jin10.com/detail/20251206020122698800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
+        },
+        {
+          "title": "美国12月5日当周石油钻井数 413，前值 407。",
+          "url": "https://wallstreetcn.com/livenews/3016086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
+        },
+        {
+          "title": "美国至12月5日当周天然气钻井总数 129口，前值130口。",
+          "url": "https://flash.jin10.com/detail/20251206020113813800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
+        },
+        {
+          "title": "美国12月5日当周总钻井数 549，前值 544。",
+          "url": "https://wallstreetcn.com/livenews/3016085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
+        },
+        {
+          "title": "美国至12月5日当周石油钻井总数 413口，前值407口。",
+          "url": "https://flash.jin10.com/detail/20251206020059190800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
+        },
+        {
           "title": "美国上诉法庭：总统特朗普可以“毫无根据”地解雇劳工与就业委员会成员。",
           "url": "https://wallstreetcn.com/livenews/3016043",
           "source": "华尔街见闻-快讯",
@@ -433,18 +580,6 @@
           "time_info": "[02时02分 ~ 03时02分]"
         },
         {
-          "title": "石油价格分析公司Platts将忽略由俄罗斯石油产生的燃料产品。",
-          "url": "https://wallstreetcn.com/livenews/3016088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时03分]"
-        },
-        {
           "title": "美国总统特朗普：已安排活动结束后（与加拿大和墨西哥方面）会面，将讨论贸易问题。",
           "url": "https://flash.jin10.com/detail/20251206005101080800",
           "source": "金十数据",
@@ -455,18 +590,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 03时02分]"
-        },
-        {
-          "title": "贝克休斯：美国钻井公司在五周内第四次增加石油和天然气钻井平台。",
-          "url": "https://flash.jin10.com/detail/20251206020252090800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时03分]"
         },
         {
           "title": "美国卫生部长RFK Jr.（小罗伯特·F·肯尼迪）的疫苗小组削弱了对婴儿乙型肝炎疫苗的推荐力度，取消了普遍接种指南。",
@@ -481,8 +604,8 @@
           "time_info": "[00时12分 ~ 01时11分]"
         },
         {
-          "title": "美国12月5日当周天然气钻井数 129，前值 130。",
-          "url": "https://wallstreetcn.com/livenews/3016087",
+          "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
+          "url": "https://wallstreetcn.com/livenews/3016099",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
@@ -490,7 +613,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时03分]"
+          "time_info": "[04时03分 ~ 05时03分]"
         },
         {
           "title": "美国总统特朗普：与加拿大和墨西哥相处得很好。",
@@ -505,20 +628,8 @@
           "time_info": "[02时02分 ~ 03时02分]"
         },
         {
-          "title": "美国至12月5日当周总钻井总数 549口，前值544口。",
-          "url": "https://flash.jin10.com/detail/20251206020122698800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时03分]"
-        },
-        {
-          "title": "美国12月5日当周石油钻井数 413，前值 407。",
-          "url": "https://wallstreetcn.com/livenews/3016086",
+          "title": "核电公司Constellation Energy Corp.（CEG）与美国司法部围绕Calpine交易达成和解方案。",
+          "url": "https://wallstreetcn.com/livenews/3016098",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
@@ -526,19 +637,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时03分]"
-        },
-        {
-          "title": "美国至12月5日当周天然气钻井总数 129口，前值130口。",
-          "url": "https://flash.jin10.com/detail/20251206020113813800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时03分]"
+          "time_info": "[04时03分 ~ 05时03分]"
         },
         {
           "title": "美国消费者信心五个月以来首次上升",
@@ -553,8 +652,8 @@
           "time_info": "[00时12分 ~ 01时11分]"
         },
         {
-          "title": "美国12月5日当周总钻井数 549，前值 544。",
-          "url": "https://wallstreetcn.com/livenews/3016085",
+          "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
+          "url": "https://wallstreetcn.com/livenews/3016097",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
@@ -562,7 +661,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时03分]"
+          "time_info": "[04时03分 ~ 05时03分]"
         },
         {
           "title": "美国总统特朗普：正在与加拿大和墨西哥合作。",
@@ -575,18 +674,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 03时02分]"
-        },
-        {
-          "title": "美国至12月5日当周石油钻井总数 413口，前值407口。",
-          "url": "https://flash.jin10.com/detail/20251206020059190800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时03分]"
         },
         {
           "title": "美国总统特朗普：将与墨西哥总统辛鲍姆讨论贸易、移民等问题。",
@@ -685,6 +772,17 @@
           "time_info": "[01时11分 ~ 02时02分]"
         },
         {
+          "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
+          "url": "https://flash.jin10.com/detail/20251206034235677800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
           "title": "美国华盛顿巡回上诉法院小组以2比1的投票结果裁定，特朗普有权解雇美国国家劳工关系委员会和美国联邦人事管理委员会的成员。",
           "url": "https://flash.jin10.com/detail/20251205232909438800",
           "source": "金十数据",
@@ -696,37 +794,15 @@
           "time_info": "00时12分"
         },
         {
-          "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
-          "url": "https://wallstreetcn.com/livenews/3016099",
+          "title": "美国10月消费信贷变动 91.78亿美元，预期 104.8亿美元，前值 130.93亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3016112",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "核电公司Constellation Energy Corp.（CEG）与美国司法部围绕Calpine交易达成和解方案。",
-          "url": "https://wallstreetcn.com/livenews/3016098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
-          "url": "https://wallstreetcn.com/livenews/3016097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时03分"
+          "time_info": "05时03分"
         },
         {
           "title": "美国9月核心PCE不及预期 为美联储进一步降息亮绿灯",
@@ -1070,11 +1146,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时03分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
         },
         {
           "title": "现货黄金向上触及4250美元/盎司，日内涨约1%。",
@@ -1186,8 +1263,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
