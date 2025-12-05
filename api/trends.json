@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T08:45:08.042092+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2025-12-05T10:30:59.701312+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际形势 台湾 美国 日本 俄罗斯",
-      "match_count": 121,
+      "match_count": 133,
       "titles": [
         {
           "title": "央视军事起底日本新型导弹",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 10时30分]"
         },
         {
           "title": "公开招水军吹捧日本、抹黑中国，金主是谁？",
@@ -104,8 +104,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 10时30分]"
         },
         {
           "title": "一只大闸蟹引发美国一州恐慌",
@@ -132,11 +132,12 @@
             10,
             15,
             12,
-            21
+            21,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 10时30分]"
         },
         {
           "title": "韩国入境系统标示“中国台湾”，民进党当局破防",
@@ -171,8 +172,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 10时30分]"
         },
         {
           "title": "全民备战!日本征兵瞄准儿童",
@@ -184,8 +185,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 10时30分]"
         },
         {
           "title": "外务省发力,日本公开买水军黑中国",
@@ -197,8 +198,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 10时30分]"
         },
         {
           "title": "懂王反向点名,暗示日韩坑美国",
@@ -251,8 +252,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 08时45分]"
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 10时30分]"
         },
         {
           "title": "美国地质勘探局：内华达州代顿地区发生5.9级地震。",
@@ -282,6 +283,17 @@
           "time_info": "[02时16分 ~ 07时02分]"
         },
         {
+          "title": "日本民众集会，要求高市撤回涉台错误言论",
+          "url": "https://news.ifeng.com/c/8opaaqw2KpN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
           "title": "美国防部最新报告称防长在“泄密门”中行为违反联邦法",
           "url": "https://flash.jin10.com/detail/20251205062717530800",
           "source": "金十数据",
@@ -293,13 +305,24 @@
           "time_info": "07时02分"
         },
         {
+          "title": "日本国债收益率面临上行压力 分析师称当前收益率“不算高”",
+          "url": "https://flash.jin10.com/detail/20251205100847510800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
           "title": "AMD首席执行官苏姿丰表示，该公司已获得向中国出口部分MI 308芯片的许可，如果出口这些芯片，公司准备向美国政府缴纳15%的税款。",
           "url": "https://wallstreetcn.com/livenews/3015430",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -321,9 +344,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "中国贸促会与美国大豆出口协会在华盛顿举行座谈",
+          "url": "https://wallstreetcn.com/livenews/3015509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "米饭当选日本年度美食，日本网民强烈不满",
+          "url": "https://news.ifeng.com/c/8opbUXyc3jt",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
         },
         {
           "title": "报道：日本考虑2027年提高所得税用于国防开支",
@@ -332,7 +377,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -603,6 +648,18 @@
           "time_info": "[01时14分 ~ 04时11分]"
         },
         {
+          "title": "美国就业进入“不裁不招”模式：上周首申创逾三年新低，招聘计划大幅下降",
+          "url": "https://wallstreetcn.com/articles/3760740",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 10时30分]"
+        },
+        {
           "title": "美国总统特朗普重申：将利用关税收入来偿还债务。",
           "url": "https://wallstreetcn.com/livenews/3015320",
           "source": "华尔街见闻-快讯",
@@ -772,6 +829,18 @@
           "time_info": "[01时14分 ~ 03时11分]"
         },
         {
+          "title": "日本释放哪些危险信号",
+          "url": "https://www.toutiao.com/trending/7580003249783111707/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 10时30分]"
+        },
+        {
           "title": "美国经济分析局：2025年9月美国货物和服务国际贸易数据将于12月11日发布。",
           "url": "https://flash.jin10.com/detail/20251205001718486800",
           "source": "金十数据",
@@ -928,17 +997,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 02时16分]"
-        },
-        {
-          "title": "美国就业进入“不裁不招”模式：上周首申创逾三年新低，招聘计划大幅下降",
-          "url": "https://wallstreetcn.com/articles/3760740",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 08时45分]"
         },
         {
           "title": "美国地质调查局4日发布内华达州发生5.9级地震的警报，随后撤回相关信息，称该警报系误发。",
@@ -1109,17 +1167,6 @@
           "time_info": "[01时14分 ~ 02时16分]"
         },
         {
-          "title": "日本释放哪些危险信号",
-          "url": "https://www.toutiao.com/trending/7580003249783111707/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 08时45分]"
-        },
-        {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产达到创纪录的7.65万亿美元。",
           "url": "https://flash.jin10.com/detail/20251205044139743800",
           "source": "金十数据",
@@ -1250,9 +1297,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "软银孙正义正与美国合作推进高科技工厂计划。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3015503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "《纽约时报》正式起诉美国防部，称其新规违宪，限制新闻自由",
+          "url": "https://news.ifeng.com/c/8opVyVi9QO1",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
         },
         {
           "title": "美国军方表示，周四在东太平洋国际水域对一艘船只实施了一次致命的动能打击。情报证实，这艘船载有非法毒品，并沿着东太平洋一条已知的毒品贩运路线过境。船上的四名男性毒品恐怖分子被杀。",
@@ -1261,7 +1330,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1272,9 +1341,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "涉嫌在“国会山骚乱”前夕放置炸弹，美国一名男子被捕",
+          "url": "https://news.ifeng.com/c/8opagkmQbnv",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "赖清德妄图抹黑“两制”台湾方案、阻挠两岸交流，必遭民意抛弃！",
+          "url": "https://news.ifeng.com/c/8op10DQH2vk",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "日本贸易大臣：正密切关注日本公司就美国关税的诉讼进展",
+          "url": "https://wallstreetcn.com/livenews/3015493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
         },
         {
           "title": "日本11月外汇储备 13594亿美元，前值13474亿美元。",
@@ -1283,7 +1385,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1294,7 +1396,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1316,7 +1418,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1338,9 +1440,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "中联部副部长陆慷会见美国外交政策全国委员会代表团",
+          "url": "https://wallstreetcn.com/livenews/3015483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
         },
         {
           "title": "美国三大股指悉数下跌。",
@@ -1354,13 +1467,24 @@
           "time_info": "00时14分"
         },
         {
+          "title": "普京称并不希望俄罗斯重新加入七国集团",
+          "url": "https://wallstreetcn.com/livenews/3015482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
           "title": "日本10月所有家庭支出月率 -3.5%，预期0.7%，前值-0.7%。",
           "url": "https://flash.jin10.com/detail/20251205073008329800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1371,7 +1495,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1382,7 +1506,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1404,7 +1528,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1415,7 +1539,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1426,7 +1550,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1459,9 +1583,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "日本10年期国债收益率下行0.5个基点，至1.930%。 日本30年期国债收益率下行1.5个基点，至3.375%。",
+          "url": "https://wallstreetcn.com/livenews/3015459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
         },
         {
           "title": "美国国会山调查特朗普的房管局长Pulte",
@@ -1490,8 +1625,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 10时30分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -1500,11 +1635,12 @@
           "ranks": [
             8,
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 10时30分]"
         },
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -1530,22 +1666,24 @@
             8,
             12,
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 10时30分]"
         },
         {
           "title": "实验猴价格大涨 30%，一只十二万元仍「有价无猴」，这对医药临床前研究影响有多大？「寻猴难」怎么破？",
           "url": "https://www.zhihu.com/question/1979161066014541026",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 08时45分]"
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 10时30分]"
         },
         {
           "title": "惠誉上调2025-26年多种大宗商品价格假设",
@@ -1646,7 +1784,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1657,7 +1795,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1668,7 +1806,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1690,7 +1828,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -1701,7 +1839,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         }
@@ -1709,7 +1847,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
@@ -1720,8 +1858,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 10时30分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -1758,6 +1896,28 @@
           "time_info": "07时02分"
         },
         {
+          "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
+          "url": "https://wallstreetcn.com/livenews/3015520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "豆包手机发布关于调整AI操作手机能力的说明",
+          "url": "https://wallstreetcn.com/livenews/3015512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
           "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
           "url": "https://wallstreetcn.com/livenews/3015329",
           "source": "华尔街见闻-快讯",
@@ -1786,6 +1946,18 @@
           "time_info": "[01时14分 ~ 04时11分]"
         },
         {
+          "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3760723",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 10时30分]"
+        },
+        {
           "title": "比尔·盖茨的女儿为星光熠熠的AI公司筹集3000万美元",
           "url": "https://wallstreetcn.com/livenews/3015296",
           "source": "华尔街见闻-快讯",
@@ -1811,17 +1983,6 @@
           "time_info": "[01时14分 ~ 02时16分]"
         },
         {
-          "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3760723",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时44分 ~ 08时45分]"
-        },
-        {
           "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
           "url": "https://www.cls.cn/detail/2220115",
           "source": "财联社热门",
@@ -1833,13 +1994,35 @@
           "time_info": "[00时13分 ~ 00时14分]"
         },
         {
+          "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
+          "url": "https://wallstreetcn.com/livenews/3015505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "黄仁勋万字访谈：AI竞赛无“终点线”，技术迭代才是关键，33年来每天都觉得公司要倒闭",
+          "url": "https://wallstreetcn.com/articles/3760706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
           "title": "OpenAI和澳大利亚数据中心集团NextDC已同意在悉尼合作开发一个大型数据中心。",
           "url": "https://flash.jin10.com/detail/20251205065532013800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         }
