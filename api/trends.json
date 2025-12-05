@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-05T15:13:35.539604+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2025-12-05T16:14:51.014317+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际形势 台湾 美国 日本 俄罗斯",
-      "match_count": 177,
+      "match_count": 188,
       "titles": [
+        {
+          "title": "大外交丨王毅访俄、中俄对表，对日本发出“共同反对信号”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32104039",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 16时14分]"
+        },
         {
           "title": "公开招水军吹捧日本、抹黑中国，金主是谁？",
           "url": "https://news.ifeng.com/c/8ooWBLvTnwm",
@@ -32,17 +43,6 @@
           "time_info": "[00时13分 ~ 07时02分]"
         },
         {
-          "title": "大外交丨王毅访俄、中俄对表，对日本发出“共同反对信号”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32104039",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时44分 ~ 15时13分]"
-        },
-        {
           "title": "央视军事起底日本新型导弹",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9B%E4%BA%8B%E8%B5%B7%E5%BA%95%E6%97%A5%E6%9C%AC%E6%96%B0%E5%9E%8B%E5%AF%BC%E5%BC%B9",
           "source": "bilibili 热搜",
@@ -54,6 +54,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时13分 ~ 11时45分]"
+        },
+        {
+          "title": "日本民众集会，要求高市撤回涉台错误言论",
+          "url": "https://news.ifeng.com/c/8opaaqw2KpN",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时30分 ~ 16时14分]"
         },
         {
           "title": "日本高官公开道歉",
@@ -95,18 +107,6 @@
           "time_info": "[00时13分 ~ 07时02分]"
         },
         {
-          "title": "日本民众集会，要求高市撤回涉台错误言论",
-          "url": "https://news.ifeng.com/c/8opaaqw2KpN",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时30分 ~ 15时13分]"
-        },
-        {
           "title": "米饭当选日本年度美食，日本网民强烈不满",
           "url": "https://news.ifeng.com/c/8opbUXyc3jt",
           "source": "凤凰网",
@@ -117,6 +117,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时30分 ~ 15时13分]"
+        },
+        {
+          "title": "美国就业进入“不裁不招”模式：上周首申创逾三年新低，招聘计划大幅下降",
+          "url": "https://wallstreetcn.com/articles/3760740",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 16时14分]"
         },
         {
           "title": "普京：无论如何都将控制顿巴斯和“新俄罗斯”",
@@ -256,19 +269,6 @@
           "time_info": "[00时13分 ~ 08时45分]"
         },
         {
-          "title": "美国就业进入“不裁不招”模式：上周首申创逾三年新低，招聘计划大幅下降",
-          "url": "https://wallstreetcn.com/articles/3760740",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时44分 ~ 15时13分]"
-        },
-        {
           "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
           "url": "https://www.cls.cn/detail/2219893",
           "source": "财联社热门",
@@ -304,11 +304,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 15时13分]"
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 16时14分]"
         },
         {
           "title": "《纽约时报》正式起诉美国防部，称其新规违宪，限制新闻自由",
@@ -331,6 +332,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时30分 ~ 15时13分]"
+        },
+        {
+          "title": "推动加息，日本央行如何“巧取”高市早苗",
+          "url": "https://wallstreetcn.com/articles/3760719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 16时14分]"
         },
         {
           "title": "赖清德妄图抹黑“两制”台湾方案、阻挠两岸交流，必遭民意抛弃！",
@@ -367,18 +380,6 @@
           "time_info": "14时16分"
         },
         {
-          "title": "推动加息，日本央行如何“巧取”高市早苗",
-          "url": "https://wallstreetcn.com/articles/3760719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时45分 ~ 15时13分]"
-        },
-        {
           "title": "美国小盘股指数创新高 微软商业版Office涨价 | 环球市场",
           "url": "https://www.cls.cn/detail/2220301",
           "source": "财联社热门",
@@ -391,6 +392,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时45分 ~ 15时13分]"
+        },
+        {
+          "title": "郑丽文：大陆崛起，时间不站在台湾这边",
+          "url": "https://news.ifeng.com/c/8opl9dNwZpi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 16时14分]"
         },
         {
           "title": "日媒警告：日本武器出口即将失控",
@@ -475,6 +488,17 @@
           "time_info": "12时20分"
         },
         {
+          "title": "俄罗斯央行称，俄罗斯将取消部分海外汇款限制。",
+          "url": "https://wallstreetcn.com/livenews/3015742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "报道：日本考虑2027年提高所得税用于国防开支",
           "url": "https://wallstreetcn.com/livenews/3015428",
           "source": "华尔街见闻-快讯",
@@ -512,17 +536,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时45分 ~ 14时16分]"
-        },
-        {
-          "title": "郑丽文：大陆崛起，时间不站在台湾这边",
-          "url": "https://news.ifeng.com/c/8opl9dNwZpi",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 15时13分]"
         },
         {
           "title": "美国富裕家庭正在涌入“一元店”",
@@ -704,6 +717,18 @@
           "time_info": "[11时45分 ~ 12时20分]"
         },
         {
+          "title": "日本再将7800吨核污染水排海",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%8D%E5%B0%867800%E5%90%A8%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 16时14分]"
+        },
+        {
           "title": "美国至11月28日当周外国央行持有美国国债 38.29亿美元，前值213.99亿美元。",
           "url": "https://flash.jin10.com/detail/20251205053026440800",
           "source": "金十数据",
@@ -862,16 +887,16 @@
           "time_info": "[01时14分 ~ 04时11分]"
         },
         {
-          "title": "日本再将7800吨核污染水排海",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%8D%E5%B0%867800%E5%90%A8%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "俄罗斯数百辆保时捷突遭锁死断电，疑遭卫星干扰，部分奔驰、奥迪、大众也出现类似故障，具体情况如何？",
+          "url": "https://www.zhihu.com/question/1979554706322892326",
+          "source": "知乎",
           "ranks": [
-            24,
-            6
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 16时14分]"
         },
         {
           "title": "美国总统特朗普重申：将利用关税收入来偿还债务。",
@@ -978,18 +1003,6 @@
           "time_info": "[02时16分 ~ 04时11分]"
         },
         {
-          "title": "俄罗斯数百辆保时捷突遭锁死断电，疑遭卫星干扰，部分奔驰、奥迪、大众也出现类似故障，具体情况如何？",
-          "url": "https://www.zhihu.com/question/1979554706322892326",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时13分]"
-        },
-        {
           "title": "美国至12月4日4周国债竞拍-投标倍数 2.69，前值2.77。",
           "url": "https://flash.jin10.com/detail/20251205003206953800",
           "source": "金十数据",
@@ -1065,6 +1078,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时44分 ~ 10时30分]"
+        },
+        {
+          "title": "高市当局被指洗脑日本儿童",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%BD%93%E5%B1%80%E8%A2%AB%E6%8C%87%E6%B4%97%E8%84%91%E6%97%A5%E6%9C%AC%E5%84%BF%E7%AB%A5",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时16分 ~ 16时14分]"
         },
         {
           "title": "美国经济分析局：2025年9月美国货物和服务国际贸易数据将于12月11日发布。",
@@ -1393,17 +1418,6 @@
           "time_info": "[01时14分 ~ 02时16分]"
         },
         {
-          "title": "高市当局被指洗脑日本儿童",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E5%BD%93%E5%B1%80%E8%A2%AB%E6%8C%87%E6%B4%97%E8%84%91%E6%97%A5%E6%9C%AC%E5%84%BF%E7%AB%A5",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 15时13分]"
-        },
-        {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产达到创纪录的7.65万亿美元。",
           "url": "https://flash.jin10.com/detail/20251205044139743800",
           "source": "金十数据",
@@ -1450,6 +1464,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 02时16分]"
+        },
+        {
+          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 16时14分]"
         },
         {
           "title": "郑永年：日本军国主义从未被彻底清算",
@@ -1623,7 +1649,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1678,9 +1704,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "市场消息：自12月8日起，俄罗斯央行将取消对俄罗斯公民和“友好”国家公民的海外汇款限制。",
+          "url": "https://flash.jin10.com/detail/20251205154301729800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "日本10年期国债收益率升至1.94%，创2007年7月来新高。",
@@ -1700,9 +1737,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "江苏爸妈生出混血娃娃，原来因为太爷爷是俄罗斯人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32105514",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "美国财长贝森特将于12月11日主持美国金融稳定监督委员会会议。",
@@ -1760,6 +1808,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "克里姆林宫助手表示，俄罗斯已准备好与现时美国团队进一步合作。",
+          "url": "https://flash.jin10.com/detail/20251205153809418800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "消息称日本央行本月可能加息，并为未来进一步加息敞开大门",
           "url": "https://wallstreetcn.com/livenews/3015593",
           "source": "华尔街见闻-快讯",
@@ -1788,9 +1847,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "克里姆林宫助手表示，俄罗斯与美国在乌克兰问题上的谈判正取得进展。",
+          "url": "https://flash.jin10.com/detail/20251205153721140800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "美国SEC会议，暴露传统金融与加密行业在代币化和DeFi监管问题上的深刻分歧",
@@ -1854,7 +1924,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -1909,9 +1979,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "日本启动第17轮核污染水排海",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%AF%E5%8A%A8%E7%AC%AC17%E8%BD%AE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "纽约时报起诉美国防部",
@@ -1947,17 +2028,6 @@
           "time_info": "14时16分"
         },
         {
-          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
           "title": "机构：日本央行似乎赢得首轮博弈，但后续加息路径仍不明朗",
           "url": "https://flash.jin10.com/detail/20251205071730305800",
           "source": "金十数据",
@@ -1986,7 +2056,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -2024,6 +2094,17 @@
           "time_info": "08时45分"
         },
         {
+          "title": "日本内阁官房长官木原稔：担忧外汇市场单边快速波动。",
+          "url": "https://flash.jin10.com/detail/20251205153307987800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "据朝日新闻：日本防卫大臣小泉进次郎将于1月初访问美国。",
           "url": "https://flash.jin10.com/detail/20251205065724045800",
           "source": "金十数据",
@@ -2057,6 +2138,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "日本内阁官房长官木原稔：将实现可持续财政政策并赢得市场信任。",
+          "url": "https://flash.jin10.com/detail/20251205153130666800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "美国能源信息署报告显示库存降幅低于预期，美国天然气期货延续跌势，现跌约2%。",
           "url": "https://flash.jin10.com/detail/20251204233406265800",
           "source": "金十数据",
@@ -2079,6 +2171,28 @@
           "time_info": "13时02分"
         },
         {
+          "title": "日本内阁官房长官木原稔：长期利率是由市场根据各种因素决定的。",
+          "url": "https://flash.jin10.com/detail/20251205153112879800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：政府将在必要时采取适当措施，应对外汇市场的过度和无序波动。 正在监控包括长期收益率在内的市场趋势。 预计日本央行将实施合适的货币政策。 对外汇市场单边、快速波动表示担忧。外汇市场稳定波动很重要。 长期收益率受多种因素影响，由市场决定。",
+          "url": "https://wallstreetcn.com/livenews/3015709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "日本央行12月加息“万事俱备” 利率将创28年来新高",
           "url": "https://flash.jin10.com/detail/20251205123307451800",
           "source": "金十数据",
@@ -2088,6 +2202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：外汇市场平稳运行至关重要。",
+          "url": "https://flash.jin10.com/detail/20251205153106059800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "美国SEC主席驳斥要求企业加强人工智能报告的提议",
@@ -2126,7 +2251,7 @@
     },
     {
       "keyword_group": "价格 黄金 石油",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "潮水退去谁在裸泳？高盛警告：供应严重过剩，2026年铝、锂、铁矿石价格将重挫，铜价短期承压但长期坚挺",
@@ -2152,8 +2277,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时13分 ~ 15时13分]"
+          "appearance_count": 19,
+          "time_info": "[00时13分 ~ 16时14分]"
         },
         {
           "title": "实验猴价格大涨 30%，一只十二万元仍「有价无猴」，这对医药临床前研究影响有多大？「寻猴难」怎么破？",
@@ -2164,11 +2289,12 @@
             3,
             6,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时44分 ~ 15时13分]"
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 16时14分]"
         },
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -2301,11 +2427,12 @@
           "ranks": [
             15,
             19,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 16时14分]"
         },
         {
           "title": "瑞银预计锂市场明年开始将出现供应缺口 上调锂辉石价格预估",
@@ -2361,7 +2488,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -2449,7 +2576,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -2474,12 +2601,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月5日（周五）收盘上涨0.59%报956.01元/克；<br/>上海黄金交易所白银T+D 12月5日（周五）收盘上涨0.74%报13638.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251205153011502800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
@@ -2503,8 +2641,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时44分 ~ 15时13分]"
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 16时14分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -2528,8 +2666,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时30分 ~ 15时13分]"
+          "appearance_count": 8,
+          "time_info": "[10时30分 ~ 16时14分]"
         },
         {
           "title": "人工智能（AI）初创公司Phia融资0.3亿美元。",
@@ -2630,6 +2768,18 @@
           "time_info": "[02时16分 ~ 04时11分]"
         },
         {
+          "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
+          "url": "https://www.cls.cn/detail/2220406",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 16时14分]"
+        },
+        {
           "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
           "url": "https://wallstreetcn.com/livenews/3015288",
           "source": "华尔街见闻-快讯",
@@ -2664,15 +2814,15 @@
           "time_info": "10时30分"
         },
         {
-          "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
-          "url": "https://www.cls.cn/detail/2220406",
+          "title": "暴涨500%！摩尔线程“空降”第三高价股 AI半导体“三巨头”A股聚首",
+          "url": "https://www.cls.cn/detail/2220480",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时13分"
+          "time_info": "16时14分"
         },
         {
           "title": "报道：百度AI芯片业务昆仑芯计划在香港IPO",
@@ -2684,6 +2834,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "鸿海：AI机柜出货持续放量，ICT产品进入旺季，对于第四季的能见度优于前月。",
+          "url": "https://flash.jin10.com/detail/20251205153525491800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "鸿海：AI机柜出货持续放量，ICT产品进入旺季，对于第四季的能见度优于前月。",
+          "url": "https://wallstreetcn.com/livenews/3015716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "OpenAI和澳大利亚数据中心集团NextDC已同意在悉尼合作开发一个大型数据中心。",
