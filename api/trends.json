@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-05T10:30:59.701312+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2025-12-05T11:45:56.277278+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际形势 台湾 美国 日本 俄罗斯",
-      "match_count": 133,
+      "match_count": 141,
       "titles": [
-        {
-          "title": "央视军事起底日本新型导弹",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9B%E4%BA%8B%E8%B5%B7%E5%BA%95%E6%97%A5%E6%9C%AC%E6%96%B0%E5%9E%8B%E5%AF%BC%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时30分]"
-        },
         {
           "title": "公开招水军吹捧日本、抹黑中国，金主是谁？",
           "url": "https://news.ifeng.com/c/8ooWBLvTnwm",
@@ -42,6 +30,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时13分 ~ 07时02分]"
+        },
+        {
+          "title": "央视军事起底日本新型导弹",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9B%E4%BA%8B%E8%B5%B7%E5%BA%95%E6%97%A5%E6%9C%AC%E6%96%B0%E5%9E%8B%E5%AF%BC%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时45分]"
         },
         {
           "title": "日本高官公开道歉",
@@ -104,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时45分]"
         },
         {
           "title": "一只大闸蟹引发美国一州恐慌",
@@ -133,11 +134,12 @@
             15,
             12,
             21,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时45分]"
         },
         {
           "title": "韩国入境系统标示“中国台湾”，民进党当局破防",
@@ -182,11 +184,12 @@
           "ranks": [
             20,
             22,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时45分]"
         },
         {
           "title": "外务省发力,日本公开买水军黑中国",
@@ -252,8 +255,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 10时30分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 11时45分]"
+        },
+        {
+          "title": "日本民众集会，要求高市撤回涉台错误言论",
+          "url": "https://news.ifeng.com/c/8opaaqw2KpN",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 11时45分]"
+        },
+        {
+          "title": "米饭当选日本年度美食，日本网民强烈不满",
+          "url": "https://news.ifeng.com/c/8opbUXyc3jt",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 11时45分]"
         },
         {
           "title": "美国地质勘探局：内华达州代顿地区发生5.9级地震。",
@@ -283,15 +310,15 @@
           "time_info": "[02时16分 ~ 07时02分]"
         },
         {
-          "title": "日本民众集会，要求高市撤回涉台错误言论",
-          "url": "https://news.ifeng.com/c/8opaaqw2KpN",
-          "source": "凤凰网",
+          "title": "市场消息：美国总统特朗普将于当地时间周五下午3点（北京时间次日凌晨4点）签署行政令。",
+          "url": "https://flash.jin10.com/detail/20251205110849030800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "11时45分"
         },
         {
           "title": "美国防部最新报告称防长在“泄密门”中行为违反联邦法",
@@ -311,7 +338,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         },
@@ -347,28 +374,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
-        },
-        {
-          "title": "中国贸促会与美国大豆出口协会在华盛顿举行座谈",
-          "url": "https://wallstreetcn.com/livenews/3015509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "米饭当选日本年度美食，日本网民强烈不满",
-          "url": "https://news.ifeng.com/c/8opbUXyc3jt",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时30分"
         },
         {
           "title": "报道：日本考虑2027年提高所得税用于国防开支",
@@ -538,6 +543,18 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "美国就业进入“不裁不招”模式：上周首申创逾三年新低，招聘计划大幅下降",
+          "url": "https://wallstreetcn.com/articles/3760740",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 11时45分]"
+        },
+        {
           "title": "美国至11月28日当周外国央行持有美国国债 38.29亿美元，前值213.99亿美元。",
           "url": "https://flash.jin10.com/detail/20251205053026440800",
           "source": "金十数据",
@@ -610,6 +627,18 @@
           "time_info": "[05时02分 ~ 06时02分]"
         },
         {
+          "title": "中国贸促会与美国大豆出口协会在华盛顿举行座谈",
+          "url": "https://wallstreetcn.com/livenews/3015509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 11时45分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：美联储主席需要是一位对数据敏感的人。",
           "url": "https://flash.jin10.com/detail/20251205042437873800",
           "source": "金十数据",
@@ -646,18 +675,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时14分 ~ 04时11分]"
-        },
-        {
-          "title": "美国就业进入“不裁不招”模式：上周首申创逾三年新低，招聘计划大幅下降",
-          "url": "https://wallstreetcn.com/articles/3760740",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 10时30分]"
         },
         {
           "title": "美国总统特朗普重申：将利用关税收入来偿还债务。",
@@ -903,6 +920,17 @@
           "time_info": "[00时14分 ~ 01时14分]"
         },
         {
+          "title": "《纽约时报》正式起诉美国防部，称其新规违宪，限制新闻自由",
+          "url": "https://news.ifeng.com/c/8opVyVi9QO1",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 11时45分]"
+        },
+        {
           "title": "美国稀土董事Sanderson ：美国需要制定一项构建关键矿物供应链的综合计划。",
           "url": "https://flash.jin10.com/detail/20251204235818996800",
           "source": "金十数据",
@@ -999,6 +1027,17 @@
           "time_info": "[01时14分 ~ 02时16分]"
         },
         {
+          "title": "涉嫌在“国会山骚乱”前夕放置炸弹，美国一名男子被捕",
+          "url": "https://news.ifeng.com/c/8opagkmQbnv",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 11时45分]"
+        },
+        {
           "title": "美国地质调查局4日发布内华达州发生5.9级地震的警报，随后撤回相关信息，称该警报系误发。",
           "url": "https://flash.jin10.com/detail/20251205042124057800",
           "source": "金十数据",
@@ -1021,6 +1060,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "赖清德妄图抹黑“两制”台湾方案、阻挠两岸交流，必遭民意抛弃！",
+          "url": "https://news.ifeng.com/c/8op10DQH2vk",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 11时45分]"
         },
         {
           "title": "叙利亚央行行长：预计美国国会很快将废除“凯撒法案”。",
@@ -1308,18 +1358,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "《纽约时报》正式起诉美国防部，称其新规违宪，限制新闻自由",
-          "url": "https://news.ifeng.com/c/8opVyVi9QO1",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         },
@@ -1346,26 +1385,15 @@
           "time_info": "08时45分"
         },
         {
-          "title": "涉嫌在“国会山骚乱”前夕放置炸弹，美国一名男子被捕",
-          "url": "https://news.ifeng.com/c/8opagkmQbnv",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "赖清德妄图抹黑“两制”台湾方案、阻挠两岸交流，必遭民意抛弃！",
-          "url": "https://news.ifeng.com/c/8op10DQH2vk",
-          "source": "凤凰网",
+          "title": "推动加息，日本央行如何“巧取”高市早苗",
+          "url": "https://wallstreetcn.com/articles/3760719",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时30分"
+          "time_info": "11时45分"
         },
         {
           "title": "日本贸易大臣：正密切关注日本公司就美国关税的诉讼进展",
@@ -1374,7 +1402,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         },
@@ -1390,6 +1418,17 @@
           "time_info": "08时45分"
         },
         {
+          "title": "美国小盘股指数创新高 微软商业版Office涨价 | 环球市场",
+          "url": "https://www.cls.cn/detail/2220301",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "日本10年期国债收益率升至1.94%，创2007年7月来新高。",
           "url": "https://wallstreetcn.com/livenews/3015420",
           "source": "华尔街见闻-快讯",
@@ -1399,6 +1438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "美国富裕家庭正在涌入“一元店”",
+          "url": "https://www.cls.cn/detail/2220237",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美国财长贝森特将于12月11日主持美国金融稳定监督委员会会议。",
@@ -1434,6 +1484,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "美银：日本央行将在12月加息至0.75% 随后每六个月加息一次",
+          "url": "https://flash.jin10.com/detail/20251205105154086800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "美国SEC会议，暴露传统金融与加密行业在代币化和DeFi监管问题上的深刻分歧",
           "url": "https://wallstreetcn.com/livenews/3015409",
           "source": "华尔街见闻-快讯",
@@ -1451,7 +1512,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         },
@@ -1473,9 +1534,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
+        },
+        {
+          "title": "美国国土安全部长：计划扩大“旅行禁令”范围至30多个国家",
+          "url": "https://wallstreetcn.com/livenews/3015543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "郑丽文：时间不站在台湾这边",
+          "url": "https://www.toutiao.com/trending/7579442632838594603/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "日本10月所有家庭支出月率 -3.5%，预期0.7%，前值-0.7%。",
@@ -1555,6 +1638,17 @@
           "time_info": "08时45分"
         },
         {
+          "title": "日经225指数早盘收盘跌1.1%，日本东证指数早盘收盘跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3015526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "俄罗斯总统普京：俄罗斯与印度的能源合作不受影响。",
           "url": "https://flash.jin10.com/detail/20251204233858517800",
           "source": "金十数据",
@@ -1594,7 +1688,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         },
@@ -1613,7 +1707,7 @@
     },
     {
       "keyword_group": "价格 黄金 石油",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "潮水退去谁在裸泳？高盛警告：供应严重过剩，2026年铝、锂、铁矿石价格将重挫，铜价短期承压但长期坚挺",
@@ -1625,8 +1719,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时45分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -1639,8 +1733,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时45分]"
         },
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -1670,8 +1764,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 11时45分]"
         },
         {
           "title": "实验猴价格大涨 30%，一只十二万元仍「有价无猴」，这对医药临床前研究影响有多大？「寻猴难」怎么破？",
@@ -1682,8 +1776,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 10时30分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 11时45分]"
         },
         {
           "title": "惠誉上调2025-26年多种大宗商品价格假设",
@@ -1778,6 +1872,17 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "瑞银预计锂市场明年开始将出现供应缺口 上调锂辉石价格预估",
+          "url": "https://wallstreetcn.com/livenews/3015567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加4吨，当前持仓量为1050.58吨。",
           "url": "https://flash.jin10.com/detail/20251205074743201800",
           "source": "金十数据",
@@ -1798,6 +1903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "卓创资讯：腌腊需求有待释放，或利多生猪价格",
+          "url": "https://wallstreetcn.com/livenews/3015549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "现货价格",
@@ -1833,6 +1949,17 @@
           "time_info": "08时45分"
         },
         {
+          "title": "花旗：看好2026年铜、铝、锡的价格走势。",
+          "url": "https://flash.jin10.com/detail/20251205104326769800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "供需错配 电解液核心原料氯化亚砜价格大幅上涨",
           "url": "https://wallstreetcn.com/livenews/3015402",
           "source": "华尔街见闻-快讯",
@@ -1842,6 +1969,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "隆基与马来西亚国家石油公司达成深度合作",
+          "url": "https://wallstreetcn.com/livenews/3015522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         }
       ]
     },
@@ -1896,28 +2034,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
-          "url": "https://wallstreetcn.com/livenews/3015520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "豆包手机发布关于调整AI操作手机能力的说明",
-          "url": "https://wallstreetcn.com/livenews/3015512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
           "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
           "url": "https://wallstreetcn.com/livenews/3015329",
           "source": "华尔街见闻-快讯",
@@ -1946,6 +2062,30 @@
           "time_info": "[01时14分 ~ 04时11分]"
         },
         {
+          "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
+          "url": "https://wallstreetcn.com/livenews/3015520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 11时45分]"
+        },
+        {
+          "title": "豆包手机发布关于调整AI操作手机能力的说明",
+          "url": "https://wallstreetcn.com/livenews/3015512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 11时45分]"
+        },
+        {
           "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
           "url": "https://wallstreetcn.com/articles/3760723",
           "source": "华尔街见闻",
@@ -1954,8 +2094,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 10时30分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 11时45分]"
         },
         {
           "title": "比尔·盖茨的女儿为星光熠熠的AI公司筹集3000万美元",
@@ -1969,6 +2109,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 04时11分]"
+        },
+        {
+          "title": "黄仁勋万字访谈：AI竞赛无“终点线”，技术迭代才是关键，33年来每天都觉得公司要倒闭",
+          "url": "https://wallstreetcn.com/articles/3760706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 11时45分]"
         },
         {
           "title": "谷歌云与AI编程初创公司Replit达成多年合作伙伴关系，试图挑战Anthropic和Cursor",
@@ -2000,18 +2152,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时30分"
-        },
-        {
-          "title": "黄仁勋万字访谈：AI竞赛无“终点线”，技术迭代才是关键，33年来每天都觉得公司要倒闭",
-          "url": "https://wallstreetcn.com/articles/3760706",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
         },
