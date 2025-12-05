@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T21:25:57.583214+08:00",
-  "total_titles_processed": 1893,
+  "generated_at": "2025-12-05T22:03:07.975350+08:00",
+  "total_titles_processed": 1975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际形势 台湾 美国 日本 俄罗斯",
-      "match_count": 268,
+      "match_count": 276,
       "titles": [
         {
           "title": "大外交丨王毅访俄、中俄对表，对日本发出“共同反对信号”",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时13分 ~ 08时45分]"
+        },
+        {
+          "title": "日方声称中国在日本周边加强军事活动，中方回应",
+          "url": "https://news.ifeng.com/c/8oq2HE0Jkvt",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时12分 ~ 22时03分]"
         },
         {
           "title": "坏消息即好消息回归，美国股债涨，美元失守50日均线，人民币升破7.06，伦铜新高",
@@ -119,20 +131,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时44分 ~ 21时25分]"
-        },
-        {
-          "title": "日方声称中国在日本周边加强军事活动，中方回应",
-          "url": "https://news.ifeng.com/c/8oq2HE0Jkvt",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时12分 ~ 21时25分]"
+          "appearance_count": 19,
+          "time_info": "[08时44分 ~ 22时03分]"
         },
         {
           "title": "米饭当选日本年度美食，日本网民强烈不满",
@@ -159,8 +159,36 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时19分 ~ 21时25分]"
+          "appearance_count": 15,
+          "time_info": "[12时19分 ~ 22时03分]"
+        },
+        {
+          "title": "在台湾海峡等集结船只？外交部回应",
+          "url": "https://www.toutiao.com/trending/7580112034243805226/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时12分 ~ 22时03分]"
+        },
+        {
+          "title": "江苏爸妈生出混血娃娃，原来因为太爷爷是俄罗斯人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32105514",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时14分 ~ 22时03分]"
         },
         {
           "title": "普京：无论如何都将控制顿巴斯和“新俄罗斯”",
@@ -222,6 +250,19 @@
           "time_info": "[00时13分 ~ 12时20分]"
         },
         {
+          "title": "俄罗斯数百辆保时捷突遭锁死断电，疑遭卫星干扰，部分奔驰、奥迪、大众也出现类似故障，具体情况如何？",
+          "url": "https://www.zhihu.com/question/1979554706322892326",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[13时02分 ~ 22时03分]"
+        },
+        {
           "title": "韩国入境系统标示“中国台湾”，民进党当局破防",
           "url": "https://news.ifeng.com/c/8ooNnoxCzpT",
           "source": "凤凰网",
@@ -233,17 +274,20 @@
           "time_info": "[00时13分 ~ 08时45分]"
         },
         {
-          "title": "俄罗斯数百辆保时捷突遭锁死断电，疑遭卫星干扰，部分奔驰、奥迪、大众也出现类似故障，具体情况如何？",
-          "url": "https://www.zhihu.com/question/1979554706322892326",
-          "source": "知乎",
+          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            12,
-            15
+            20,
+            19,
+            17,
+            14,
+            15,
+            13
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[13时02分 ~ 21时25分]"
+          "time_info": "[15时13分 ~ 22时03分]"
         },
         {
           "title": "韩国标示“中国台湾” 台当局急了",
@@ -313,16 +357,15 @@
           "time_info": "[00时13分 ~ 08时45分]"
         },
         {
-          "title": "在台湾海峡等集结船只？外交部回应",
-          "url": "https://www.toutiao.com/trending/7580112034243805226/",
-          "source": "今日头条",
+          "title": "高市早苗食言，自民党为加速军扩计划增税，日本网民强烈不满",
+          "url": "https://news.ifeng.com/c/8oqIgnruMQh",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时12分 ~ 21时25分]"
+          "appearance_count": 5,
+          "time_info": "[20时18分 ~ 22时03分]"
         },
         {
           "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
@@ -336,22 +379,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时13分 ~ 07时02分]"
-        },
-        {
-          "title": "日本启动第17轮核污染水排海，本次排海量约7800吨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111585",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时13分 ~ 21时25分]"
         },
         {
           "title": "俄罗斯四批日本",
@@ -371,21 +398,6 @@
           "time_info": "[00时13分 ~ 07时02分]"
         },
         {
-          "title": "江苏爸妈生出混血娃娃，原来因为太爷爷是俄罗斯人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32105514",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时14分 ~ 21时25分]"
-        },
-        {
           "title": "推动加息，日本央行如何“巧取”高市早苗",
           "url": "https://wallstreetcn.com/articles/3760719",
           "source": "华尔街见闻",
@@ -399,6 +411,33 @@
           "time_info": "[11时45分 ~ 17时12分]"
         },
         {
+          "title": "日本大米价格持续上涨 再次刷新纪录",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E7%B1%B3%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%86%8D%E6%AC%A1%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            20,
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时02分 ~ 22时03分]"
+        },
+        {
+          "title": "中俄就涉日本问题达成高度共识",
+          "url": "https://www.cls.cn/detail/2221021",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时02分 ~ 22时03分]"
+        },
+        {
           "title": "《纽约时报》正式起诉美国防部，称其新规违宪，限制新闻自由",
           "url": "https://news.ifeng.com/c/8opVyVi9QO1",
           "source": "凤凰网",
@@ -408,17 +447,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时30分 ~ 15时13分]"
-        },
-        {
-          "title": "高市早苗食言，自民党为加速军扩计划增税，日本网民强烈不满",
-          "url": "https://news.ifeng.com/c/8oqIgnruMQh",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 21时25分]"
         },
         {
           "title": "涉嫌在“国会山骚乱”前夕放置炸弹，美国一名男子被捕",
@@ -490,17 +518,6 @@
           "time_info": "20时19分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：随着工厂陆续开业，明年将迎来巨大动能。",
-          "url": "https://flash.jin10.com/detail/20251205210904498800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "印度总理莫迪：印度和俄罗斯的共同目标是加强经济合作。",
           "url": "https://wallstreetcn.com/livenews/3015788",
           "source": "华尔街见闻-快讯",
@@ -510,20 +527,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
-        },
-        {
-          "title": "日本大米价格持续上涨 再次刷新纪录",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A7%E7%B1%B3%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%B6%A8+%E5%86%8D%E6%AC%A1%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            20,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时02分 ~ 21时25分]"
         },
         {
           "title": "美国小盘股指数创新高 微软商业版Office涨价 | 环球市场",
@@ -550,19 +553,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时19分 ~ 16时14分]"
-        },
-        {
-          "title": "中俄就涉日本问题达成高度共识",
-          "url": "https://www.cls.cn/detail/2221021",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时02分 ~ 21时25分]"
         },
         {
           "title": "日媒警告：日本武器出口即将失控",
@@ -601,17 +591,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
-        },
-        {
-          "title": "Meta公司：与CNN、福克斯新闻、世界集团、人物公司和今日美国公司等出版机构合作，将带来更多实时新闻和内容。我们将继续拓展新的合作伙伴关系，并探索新功能，以提升使用我们产品的用户的体验。",
-          "url": "https://flash.jin10.com/detail/20251205210849547800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
         },
         {
           "title": "美国防部最新报告称防长在“泄密门”中行为违反联邦法",
@@ -741,7 +720,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -768,17 +747,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：人工智能经济的发展速度已超过20世纪90年代的互联网经济。",
-          "url": "https://flash.jin10.com/detail/20251205210746180800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
         },
         {
           "title": "报道：日本考虑2027年提高所得税用于国防开支",
@@ -841,6 +809,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时45分 ~ 14时16分]"
+        },
+        {
+          "title": "为什么一开始复联就默认了美国队长的领导身份？",
+          "url": "https://www.zhihu.com/question/323768487",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时18分 ~ 22时03分]"
         },
         {
           "title": "美国富裕家庭正在涌入“一元店”",
@@ -973,6 +953,18 @@
           "time_info": "[07时02分 ~ 08时45分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：随着工厂陆续开业，明年将迎来巨大动能。",
+          "url": "https://flash.jin10.com/detail/20251205210904498800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时03分]"
+        },
+        {
           "title": "《纽约时报》就美国防部媒体新规起诉赫格塞思",
           "url": "https://wallstreetcn.com/livenews/3015588",
           "source": "华尔街见闻-快讯",
@@ -1020,6 +1012,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 12时20分]"
+        },
+        {
+          "title": "Meta公司：与CNN、福克斯新闻、世界集团、人物公司和今日美国公司等出版机构合作，将带来更多实时新闻和内容。我们将继续拓展新的合作伙伴关系，并探索新功能，以提升使用我们产品的用户的体验。",
+          "url": "https://flash.jin10.com/detail/20251205210849547800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时03分]"
         },
         {
           "title": "印度总理莫迪和俄罗斯总统普京发表联合声明。（彭博）",
@@ -1164,6 +1168,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：人工智能经济的发展速度已超过20世纪90年代的互联网经济。",
+          "url": "https://flash.jin10.com/detail/20251205210746180800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时03分]"
         },
         {
           "title": "美国团队可能会在下周前往印度，商谈贸易问题。（PTI）",
@@ -1316,18 +1332,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时02分 ~ 19时02分]"
-        },
-        {
-          "title": "为什么一开始复联就默认了美国队长的领导身份？",
-          "url": "https://www.zhihu.com/question/323768487",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 21时25分]"
         },
         {
           "title": "美国至12月4日8周国债竞拍-投标倍数 2.98，前值2.87。",
@@ -1495,6 +1499,18 @@
           "time_info": "[05时02分 ~ 06时02分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特： 2026年的经济增速可能达到4%。",
+          "url": "https://flash.jin10.com/detail/20251205210736708800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时03分]"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国上周EIA天然气库存下降120亿立方英尺，周环比减少0.3%，至3.92万亿立方英尺。",
           "url": "https://wallstreetcn.com/livenews/3015268",
           "source": "华尔街见闻-快讯",
@@ -1591,6 +1607,18 @@
           "time_info": "[05时02分 ~ 06时02分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：预计第一季度将出现更大幅度的反弹。",
+          "url": "https://flash.jin10.com/detail/20251205210610708800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时03分]"
+        },
+        {
           "title": "美国针对俄罗斯石油公司LukOil的某些（资产出售）交易发放许可证。",
           "url": "https://wallstreetcn.com/livenews/3015263",
           "source": "华尔街见闻-快讯",
@@ -1625,6 +1653,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：预计政府停摆造成的冲击比预期更大。",
+          "url": "https://flash.jin10.com/detail/20251205210554162800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时03分]"
         },
         {
           "title": "美国未偿国债突破30万亿美元，自2018年以来翻了一番",
@@ -1795,6 +1835,18 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "印度和俄罗斯就核项目进行了大量讨论。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3015959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时03分]"
+        },
+        {
           "title": "美国劳工统计局：2025年第三季度生产率和成本（初步）数据将于1月8日发布。2025年第四季度就业成本指数将于2月10日发布。",
           "url": "https://flash.jin10.com/detail/20251205001056901800",
           "source": "金十数据",
@@ -1840,6 +1892,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时02分 ~ 18时03分]"
+        },
+        {
+          "title": "周柯宇退出美国国籍",
+          "url": "https://www.douyin.com/hot/2327147",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "郑永年：日本军国主义从未被彻底清算",
@@ -1952,17 +2015,6 @@
           "time_info": "18时03分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特： 2026年的经济增速可能达到4%。",
-          "url": "https://flash.jin10.com/detail/20251205210736708800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "美国贸易办公室（USTR）代表格里尔在“美国增长峰会”上称：美国墨西哥加拿大贸易协议（USMCA）存在问题。",
           "url": "https://wallstreetcn.com/livenews/3015380",
           "source": "华尔街见闻-快讯",
@@ -2073,17 +2125,6 @@
           "time_info": "19时02分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：预计第一季度将出现更大幅度的反弹。",
-          "url": "https://flash.jin10.com/detail/20251205210610708800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "美国最高法院批准有利于共和党的得州选区重划方案",
           "url": "https://wallstreetcn.com/livenews/3015425",
           "source": "华尔街见闻-快讯",
@@ -2128,17 +2169,6 @@
           "time_info": "20时19分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：预计政府停摆造成的冲击比预期更大。",
-          "url": "https://flash.jin10.com/detail/20251205210554162800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "美国大豆出口协会负责人：美中在低碳生产领域存在巨大合作机会",
           "url": "https://wallstreetcn.com/livenews/3015632",
           "source": "华尔街见闻-快讯",
@@ -2178,7 +2208,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -2348,6 +2378,17 @@
           "time_info": "18时03分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：支持贝森特对地区联储主席（就职前需在辖区内住至少三年）的看法。",
+          "url": "https://flash.jin10.com/detail/20251205211629223800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "美国代表团计划下周访问印度进行贸易谈判",
           "url": "https://wallstreetcn.com/livenews/3015413",
           "source": "华尔街见闻-快讯",
@@ -2379,6 +2420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：现在是美联储 “谨慎降息”的好时机，预计美联储下周将采取这一行动。 预计政府关门的影响比预期的要大。 预计第一季度将出现更大幅度的反弹。 2026年的生产率可能会达到4%。 人工智能经济的发展速度比20世纪90年代的互联网经济更快。 如果（明年）一季度和二季度的（经济）增速为3%，将会感到失望。 只要没有“随机黑天鹅”事件发生，预计2026年将成为“美国经济史上的黄金年份之一” 如果最高法院否决关税，将会造成巨大混乱。 没有和特朗普讨论过美联储主席的问题。 我支持贝森特在地区联储主席问题上的看法。",
+          "url": "https://wallstreetcn.com/livenews/3015973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美国稀土董事Sanderson ：如果伦敦金属交易所能够制定稀土的定价机制，将会有所帮助。",
@@ -2431,9 +2483,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：第232号和第301号贸易措施是备选方案之一。",
+          "url": "https://flash.jin10.com/detail/20251205211604539800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "消息称日本央行本月可能加息，并为未来进一步加息敞开大门",
@@ -2480,17 +2543,6 @@
           "time_info": "20时19分"
         },
         {
-          "title": "印度和俄罗斯就核项目进行了大量讨论。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3015959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
           "title": "克里姆林宫助手表示，俄罗斯与美国在乌克兰问题上的谈判正取得进展。",
           "url": "https://flash.jin10.com/detail/20251205153721140800",
           "source": "金十数据",
@@ -2511,6 +2563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：未与美国总统特朗普讨论美联储主席（人选）问题。",
+          "url": "https://flash.jin10.com/detail/20251205211546105800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美国SEC会议，暴露传统金融与加密行业在代币化和DeFi监管问题上的深刻分歧",
@@ -2601,6 +2664,17 @@
           "time_info": "19时02分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：如果最高法院否决关税，将会造成巨大混乱。",
+          "url": "https://flash.jin10.com/detail/20251205211529477800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "美国三大股指悉数下跌。",
           "url": "https://wallstreetcn.com/livenews/3015250",
           "source": "华尔街见闻-快讯",
@@ -2676,6 +2750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：若美国一季度和二季度经济增长仅为3%，将深感失望。",
+          "url": "https://flash.jin10.com/detail/20251205210918945800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "受政府“停摆”影响 《美国人膳食指南》推迟发布",
@@ -2915,7 +3000,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -2937,7 +3022,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -2959,7 +3044,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -2992,7 +3077,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -3025,7 +3110,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -3061,6 +3146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：美联储是时候审慎地降息了。",
+          "url": "https://flash.jin10.com/detail/20251205210541791800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "日本内阁官房长官木原稔：政府将在必要时采取适当措施，应对外汇市场的过度和无序波动。 正在监控包括长期收益率在内的市场趋势。 预计日本央行将实施合适的货币政策。 对外汇市场单边、快速波动表示担忧。外汇市场稳定波动很重要。 长期收益率受多种因素影响，由市场决定。",
@@ -3472,7 +3568,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -3582,8 +3678,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时30分 ~ 21时25分]"
+          "appearance_count": 17,
+          "time_info": "[10时30分 ~ 22时03分]"
         },
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
@@ -3613,6 +3709,20 @@
           "time_info": "[08时44分 ~ 19时02分]"
         },
         {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时12分 ~ 22时03分]"
+        },
+        {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
           "url": "https://www.zhihu.com/question/1979578572474709507",
           "source": "知乎",
@@ -3625,18 +3735,17 @@
           "time_info": "[00时13分 ~ 07时02分]"
         },
         {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
+          "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
+          "url": "https://www.zhihu.com/question/1980299505992753247",
+          "source": "知乎",
           "ranks": [
-            13,
             10,
-            8,
-            9
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时12分 ~ 21时25分]"
+          "appearance_count": 5,
+          "time_info": "[20时18分 ~ 22时03分]"
         },
         {
           "title": "人工智能（AI）初创公司Phia融资0.3亿美元。",
@@ -3698,18 +3807,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时14分 ~ 04时11分]"
-        },
-        {
-          "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
-          "url": "https://www.zhihu.com/question/1980299505992753247",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 21时25分]"
         },
         {
           "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
@@ -3814,7 +3911,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
