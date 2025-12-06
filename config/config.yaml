@@ -86,3 +86,5 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "zaobao"
+    name: "早报"
