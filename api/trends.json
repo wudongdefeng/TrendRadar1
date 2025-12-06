@@ -1,45 +1,23 @@
 {
-  "generated_at": "2025-12-06T07:02:46.169539+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2025-12-06T08:42:21.017462+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际形势 台湾 美国 日本 俄罗斯",
-      "match_count": 107,
+      "match_count": 121,
       "titles": [
-        {
-          "title": "中方愿同俄方配合坚决遏制日本挑衅",
-          "url": "https://www.toutiao.com/trending/7579724784825679910/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时02分]"
-        },
-        {
-          "title": "阻挠中国出席G7峰会 日本想多了",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BB%E6%8C%A0%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%B8%ADG7%E5%B3%B0%E4%BC%9A+%E6%97%A5%E6%9C%AC%E6%83%B3%E5%A4%9A%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时02分]"
-        },
         {
           "title": "日方声称中国在日本周边加强军事活动，中方回应",
           "url": "https://news.ifeng.com/c/8oq2HE0Jkvt",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 08时42分]"
         },
         {
           "title": "“日本人应该清醒地认识到这件事！”",
@@ -49,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 08时42分]"
         },
         {
           "title": "高市早苗食言，自民党为加速军扩计划增税，日本网民强烈不满",
@@ -64,6 +42,19 @@
           "time_info": "[00时12分 ~ 07时02分]"
         },
         {
+          "title": "中方愿同俄方配合坚决遏制日本挑衅",
+          "url": "https://www.toutiao.com/trending/7579724784825679910/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 08时42分]"
+        },
+        {
           "title": "俄罗斯数百辆保时捷突遭锁死断电，疑遭卫星干扰，部分奔驰、奥迪、大众也出现类似故障，具体情况如何？",
           "url": "https://www.zhihu.com/question/1979554706322892326",
           "source": "知乎",
@@ -73,8 +64,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 08时42分]"
+        },
+        {
+          "title": "阻挠中国出席G7峰会 日本想多了",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BB%E6%8C%A0%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%B8%ADG7%E5%B3%B0%E4%BC%9A+%E6%97%A5%E6%9C%AC%E6%83%B3%E5%A4%9A%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 08时42分]"
         },
         {
           "title": "为什么一开始复联就默认了美国队长的领导身份？",
@@ -88,8 +91,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 07时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 08时42分]"
         },
         {
           "title": "在台湾海峡等集结船只？外交部回应",
@@ -132,8 +135,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 08时42分]"
         },
         {
           "title": "俄罗斯境内数千辆保时捷集体「变砖」，疑似车企搞远程「锁车」破坏，怎么锁的？不依赖厂家能否修复？",
@@ -158,8 +161,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 08时42分]"
         },
         {
           "title": "周柯宇退出美国国籍",
@@ -170,30 +173,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时02分]"
-        },
-        {
-          "title": "美国10月消费信贷 91.8亿美元，预期105亿美元，前值130.93亿美元。",
-          "url": "https://flash.jin10.com/detail/20251206040033600800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 07时02分]"
-        },
-        {
-          "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
-          "url": "https://flash.jin10.com/detail/20251206034533252800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 08时42分]"
         },
         {
           "title": "中俄就涉日本问题达成高度共识",
@@ -212,11 +193,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时03分 ~ 07时02分]"
+          "appearance_count": 5,
+          "time_info": "[04时03分 ~ 08时42分]"
         },
         {
           "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
@@ -224,44 +206,91 @@
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时03分 ~ 08时42分]"
+        },
+        {
+          "title": "美国10月消费信贷 91.8亿美元，预期105亿美元，前值130.93亿美元。",
+          "url": "https://flash.jin10.com/detail/20251206040033600800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[04时03分 ~ 07时02分]"
+          "time_info": "[05时03分 ~ 08时42分]"
         },
         {
-          "title": "美国法官发布最终的搜索反垄断官司判决结果：谷歌公司必须将默认合同限定在一年。",
-          "url": "https://wallstreetcn.com/livenews/3016153",
+          "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
+          "url": "https://flash.jin10.com/detail/20251206034533252800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时03分 ~ 08时42分]"
+        },
+        {
+          "title": "根据俄罗斯法律门户网站5日发布的信息，俄罗斯总理米舒斯京3日签署政府决议，终止俄罗斯与加拿大、法国和葡萄牙的部分军事合作协议。",
+          "url": "https://flash.jin10.com/detail/20251206081945795800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "俄罗斯车臣共和国首府遭无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3016175",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "美国证交会（SEC）委员马克·乌耶达：SEC通过同意修订全球研究分析师和解协议，朝着消除过时且成本高昂的监管要求迈出了重要一步，并有助于提升股权研究报告的可获得性。",
+          "url": "https://flash.jin10.com/detail/20251206081806251800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "08时42分"
         },
         {
-          "title": "美国参议院共和党成员Marshall（附和总统特朗普政府的立场）：奈飞收购华纳兄弟探索的交易“严肃的红旗”。",
-          "url": "https://wallstreetcn.com/livenews/3016152",
+          "title": "日本政府欲打造日版中情局 民众继续承压高市之“祸”",
+          "url": "https://wallstreetcn.com/livenews/3016173",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "08时42分"
         },
         {
-          "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆本次会谈持续了45分钟。 三方将继续致力于（翻新）美国墨西哥加拿大贸易协议（USMCA）。",
-          "url": "https://wallstreetcn.com/livenews/3016151",
-          "source": "华尔街见闻-快讯",
+          "title": "俄罗斯终止与多国的部分军事合作协议",
+          "url": "https://news.ifeng.com/c/8or1EXdHbUe",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "08时42分"
         },
         {
           "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
@@ -419,6 +448,18 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
+          "url": "https://flash.jin10.com/detail/20251206034235677800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时03分 ~ 08时42分]"
+        },
+        {
           "title": "美国民主党参议员沃伦：拟议中的奈飞与华纳兄弟的交易是“反垄断噩梦”，将推高消费者成本并限制选择。",
           "url": "https://flash.jin10.com/detail/20251205233139508800",
           "source": "金十数据",
@@ -467,6 +508,18 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "美国法官发布最终的搜索反垄断官司判决结果：谷歌公司必须将默认合同限定在一年。",
+          "url": "https://wallstreetcn.com/livenews/3016153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时42分]"
+        },
+        {
           "title": "提醒：美国商品期货交易委员会（CFTC）补发10月28日当周的持仓报告。 其中，大豆净多头头寸增加83,160手合约，WTI原油净多头头寸增加34,585手合约，黄金增加13,501手合约。",
           "url": "https://wallstreetcn.com/livenews/3016116",
           "source": "华尔街见闻-快讯",
@@ -477,6 +530,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 06时02分]"
+        },
+        {
+          "title": "美国参议院共和党成员Marshall（附和总统特朗普政府的立场）：奈飞收购华纳兄弟探索的交易“严肃的红旗”。",
+          "url": "https://wallstreetcn.com/livenews/3016152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时42分]"
         },
         {
           "title": "美国民主党参议员沃伦：奈飞(NFLX.O)与华纳兄弟探索公司(WBD.O)的收购交易是“一场噩梦”。",
@@ -515,15 +580,16 @@
           "time_info": "[00时12分 ~ 01时11分]"
         },
         {
-          "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
-          "url": "https://flash.jin10.com/detail/20251206034235677800",
-          "source": "金十数据",
+          "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆本次会谈持续了45分钟。 三方将继续致力于（翻新）美国墨西哥加拿大贸易协议（USMCA）。",
+          "url": "https://wallstreetcn.com/livenews/3016151",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 07时02分]"
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时42分]"
         },
         {
           "title": "美国总统特朗普：已经安排会见加拿大总理卡尼和墨西哥总统辛鲍姆的事宜。",
@@ -702,6 +768,18 @@
           "time_info": "[05时03分 ~ 06时02分]"
         },
         {
+          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
+          "url": "https://wallstreetcn.com/livenews/3016148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时42分]"
+        },
+        {
           "title": "美国总统特朗普：与加拿大和墨西哥相处得很好。",
           "url": "https://flash.jin10.com/detail/20251206004936040800",
           "source": "金十数据",
@@ -808,6 +886,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "美国监管机构放松奥巴马时代杠杆贷款限制，以应对银行市场份额流失",
+          "url": "https://wallstreetcn.com/livenews/3016144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时42分]"
         },
         {
           "title": "阻挠中国出席G7峰会日本想多了",
@@ -917,6 +1007,28 @@
           "time_info": "[01时11分 ~ 02时02分]"
         },
         {
+          "title": "美国务院：美乌就“和平计划”进行了“建设性讨论”",
+          "url": "https://flash.jin10.com/detail/20251206081047559800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "高市早苗欲成立日本版中情局",
+          "url": "https://www.toutiao.com/trending/7580203204307140627/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
           "title": "美国华盛顿巡回上诉法院小组以2比1的投票结果裁定，特朗普有权解雇美国国家劳工关系委员会和美国联邦人事管理委员会的成员。",
           "url": "https://flash.jin10.com/detail/20251205232909438800",
           "source": "金十数据",
@@ -928,26 +1040,48 @@
           "time_info": "00时12分"
         },
         {
-          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
-          "url": "https://wallstreetcn.com/livenews/3016148",
-          "source": "华尔街见闻-快讯",
+          "title": "驻日美军猥亵少女日本不予起诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E7%8C%A5%E4%BA%B5%E5%B0%91%E5%A5%B3%E6%97%A5%E6%9C%AC%E4%B8%8D%E4%BA%88%E8%B5%B7%E8%AF%89%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "08时42分"
         },
         {
-          "title": "美国监管机构放松奥巴马时代杠杆贷款限制，以应对银行市场份额流失",
-          "url": "https://wallstreetcn.com/livenews/3016144",
+          "title": "美国国务院批准向黎巴嫩出售中型战术车辆及相关设备，预计费用为9050万美元。",
+          "url": "https://flash.jin10.com/detail/20251206040352231800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "美国务院：美乌就“和平计划”进行了“建设性讨论”",
+          "url": "https://wallstreetcn.com/livenews/3016167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "俄罗斯终止与加拿大、法国和葡萄牙的部分军事合作协议",
+          "url": "https://wallstreetcn.com/livenews/3016163",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "08时42分"
         },
         {
           "title": "美国9月核心PCE不及预期 为美联储进一步降息亮绿灯",
@@ -983,6 +1117,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "日本正研究自2027年起将所得税提高1%以用于国防开支。（读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3016159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
           "title": "美国9月核心PCE物价指数环比 0.2%，预期 0.2%，前值 0.2%。",
           "url": "https://wallstreetcn.com/livenews/3016032",
           "source": "华尔街见闻-快讯",
@@ -992,6 +1137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "日本将把离境税提高两倍，至每人3000日元。（Yomiuri）",
+          "url": "https://wallstreetcn.com/livenews/3016158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
         },
         {
           "title": "美国9月份消费者支出增速放缓 经济现“K型”分化",
@@ -1236,6 +1392,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "美国打击所谓“运毒船”视频引哗然",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%93%E5%87%BB%E6%89%80%E8%B0%93%E2%80%9C%E8%BF%90%E6%AF%92%E8%88%B9%E2%80%9D%E8%A7%86%E9%A2%91%E5%BC%95%E5%93%97%E7%84%B6",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
           "title": "美国9月核心PCE物价指数年率 2.8%，预期2.9%，前值2.9%。",
           "url": "https://flash.jin10.com/detail/20251205230004733800",
           "source": "金十数据",
@@ -1292,11 +1459,12 @@
           "ranks": [
             2,
             14,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[03时02分 ~ 08时42分]"
         },
         {
           "title": "现货黄金向上触及4250美元/盎司，日内涨约1%。",
@@ -1420,7 +1588,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -1429,22 +1597,24 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 08时42分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
           "url": "https://wallstreetcn.com/livenews/3016155",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时42分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
@@ -1473,6 +1643,17 @@
           "time_info": "[02时02分 ~ 04时03分]"
         },
         {
+          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
+          "url": "https://wallstreetcn.com/articles/3760810",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
           "title": "软银洽谈收购数据中心私募DigitalBridge，希望借机把握AI基础设施热潮",
           "url": "https://wallstreetcn.com/livenews/3016035",
           "source": "华尔街见闻-快讯",
@@ -1482,6 +1663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "从“隐形地图”到“黄金窗口期”，上海张江AI小镇底气何在？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32113562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
         }
       ]
     }
