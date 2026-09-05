@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T02:42:42.297179+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-09-06T04:50:58.670246+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时50分]"
         },
         {
           "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时50分]"
         },
         {
           "title": "美国非农意外强劲，9月加息概率升至约60%，市场紧盯下周CPI",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时50分]"
         },
         {
           "title": "OpenAI称已聘用三名人员，专门负责美国各州的政策事务。（Axios）",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时50分]"
         },
         {
           "title": "特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易",
@@ -65,28 +66,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "别尔哥罗德州当局：乌克兰无人机袭击俄罗斯别尔哥罗德州，造成一人死亡。",
-          "url": "https://flash.jin10.com/detail/20260906023401147800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "普京：俄罗斯尚未与乌克兰讨论扩大停火",
-          "url": "https://flash.jin10.com/detail/20260906022005102800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
           "title": "阿里前高管在美国失踪半月后确认身亡",
           "url": "https://www.toutiao.com/trending/7682030192344433161/",
           "source": "今日头条",
@@ -98,6 +77,41 @@
           "time_info": "00时25分"
         },
         {
+          "title": "伊朗议员：美国本不应出现封锁行为",
+          "url": "https://flash.jin10.com/detail/20260906040908555800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "别尔哥罗德州当局：乌克兰无人机袭击俄罗斯别尔哥罗德州，造成一人死亡。",
+          "url": "https://flash.jin10.com/detail/20260906023401147800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 04时50分]"
+        },
+        {
+          "title": "普京：俄罗斯尚未与乌克兰讨论扩大停火",
+          "url": "https://flash.jin10.com/detail/20260906022005102800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 04时50分]"
+        },
+        {
           "title": "美国8月非农表面强劲，实际有多少“水分”？",
           "url": "https://wallstreetcn.com/articles/3781132",
           "source": "华尔街见闻",
@@ -106,8 +120,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时50分]"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京将于周六与美国特使维特科夫和库什纳举行会谈。（塔斯社）",
@@ -115,11 +129,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时50分]"
         },
         {
           "title": "世界地图要变,美国投反对票",
@@ -129,8 +144,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时50分]"
         },
         {
           "title": "对话｜“林肯”号航母水兵父亲：儿子被以色列当枪，美国政客却在分赃",
@@ -141,8 +156,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时50分]"
         },
         {
           "title": "制裁半个世纪未果，美国这次能否让伊朗成为“经济弃儿”？",
@@ -152,8 +167,55 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时50分]"
+        },
+        {
+          "title": "非洲面积失真引发地图之争：联合国通过“修正地图”决议，美国投唯一反对票",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34014084",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时50分]"
+        },
+        {
+          "title": "二游反攻日本,企鹅女管出圈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362498&amp;topic_name=%E4%BA%8C%E6%B8%B8%E5%8F%8D%E6%94%BB%E6%97%A5%E6%9C%AC%2C%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%87%BA%E5%9C%88",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时50分]"
+        },
+        {
+          "title": "日本求拆菊花纹章遭俄拒绝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362497&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B1%82%E6%8B%86%E8%8F%8A%E8%8A%B1%E7%BA%B9%E7%AB%A0%E9%81%AD%E4%BF%84%E6%8B%92%E7%BB%9D",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时50分]"
+        },
+        {
+          "title": "下周美国CPI会触发9月加息吗？美银、花旗给出两个相反剧本",
+          "url": "https://wallstreetcn.com/articles/3781157",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时42分]"
+          "time_info": "[02时42分 ~ 04时50分]"
         },
         {
           "title": "把黄金搬离美国渐成趋势",
@@ -180,38 +242,15 @@
           "time_info": "[00时25分 ~ 02时42分]"
         },
         {
-          "title": "非洲面积失真引发地图之争：联合国通过“修正地图”决议，美国投唯一反对票",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34014084",
-          "source": "澎湃新闻",
+          "title": "俄罗斯总统普京、美国总统特使威特科夫与特朗普女婿库什纳的会晤结束。",
+          "url": "https://flash.jin10.com/detail/20260906040447398800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            16
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时42分]"
-        },
-        {
-          "title": "二游反攻日本,企鹅女管出圈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362498&amp;topic_name=%E4%BA%8C%E6%B8%B8%E5%8F%8D%E6%94%BB%E6%97%A5%E6%9C%AC%2C%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%87%BA%E5%9C%88",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时42分]"
-        },
-        {
-          "title": "日本求拆菊花纹章遭俄拒绝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362497&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B1%82%E6%8B%86%E8%8F%8A%E8%8A%B1%E7%BA%B9%E7%AB%A0%E9%81%AD%E4%BF%84%E6%8B%92%E7%BB%9D",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "美国国家飓风中心：Lowell预计将在周日向北转向，并于周一接近西部夏威夷群岛，夏威夷的相关利益方应密切关注Lowell的动态。",
@@ -225,6 +264,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "伊朗革命卫队：已打击3艘与美国有关联船只及3艘油轮",
+          "url": "https://flash.jin10.com/detail/20260906040024042800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
           "title": "美国国家飓风中心：飓风卡里娜预计将在下周初迅速减弱。",
           "url": "https://flash.jin10.com/detail/20260905224045467800",
           "source": "金十数据",
@@ -236,15 +286,15 @@
           "time_info": "00时25分"
         },
         {
-          "title": "下周美国CPI会触发9月加息吗？美银、花旗给出两个相反剧本",
-          "url": "https://wallstreetcn.com/articles/3781157",
-          "source": "华尔街见闻",
+          "title": "据泰晤士报：爱尔兰总理米歇尔·马丁将在下周六与美国总统特朗普会面时，敦促其结束伊朗冲突。",
+          "url": "https://flash.jin10.com/detail/20260906035057867800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "04时50分"
         },
         {
           "title": "伊朗外交部：我们谴责美国在波斯湾和阿曼湾袭击我们的船只，其行为是战争罪，对海上航行安全构成威胁。",
@@ -253,9 +303,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "伊朗革命卫队海军称，已在其他海域打击了三艘美国船只。美方暂未予以证实。",
+          "url": "https://flash.jin10.com/detail/20260906034523804800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "特朗普：将向俄罗斯提交结束俄乌冲突的方案；泽连斯基：美总统特使访问期间，不对俄发动空中打击",
@@ -286,7 +347,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -297,7 +358,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -319,7 +380,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -341,9 +402,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "据Politico：特朗普旗下“让美国再次伟大”超级政治行动委员会（MAGA Inc.）向得克萨斯州投入1000万美元，这是该机构本年度首次大选阶段开支。",
+          "url": "https://flash.jin10.com/detail/20260906031529578800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "俄罗斯总统普京：这样的接触总是有益的，与你们（威特科夫和库什纳）合作对我们来说很方便。",
@@ -352,7 +424,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -363,7 +435,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -374,7 +446,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -385,7 +457,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -407,7 +479,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -418,7 +490,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         },
@@ -462,7 +534,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         }
