@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T17:58:03.466247+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-09-06T21:22:28.961658+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 79,
+      "match_count": 92,
       "titles": [
         {
           "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
@@ -45,6 +45,73 @@
           "time_info": "[02时42分 ~ 17时58分]"
         },
         {
+          "title": "世界地图要变,美国投反对票",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362523&amp;topic_name=%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E8%A6%81%E5%8F%98%2C%E7%BE%8E%E5%9B%BD%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            13,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 21时22分]"
+        },
+        {
+          "title": "二游反攻日本,企鹅女管出圈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362498&amp;topic_name=%E4%BA%8C%E6%B8%B8%E5%8F%8D%E6%94%BB%E6%97%A5%E6%9C%AC%2C%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%87%BA%E5%9C%88",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            20,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 21时22分]"
+        },
+        {
+          "title": "日本求拆菊花纹章遭俄拒绝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362497&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B1%82%E6%8B%86%E8%8F%8A%E8%8A%B1%E7%BA%B9%E7%AB%A0%E9%81%AD%E4%BF%84%E6%8B%92%E7%BB%9D",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            23,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 21时22分]"
+        },
+        {
+          "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
+          "url": "https://wallstreetcn.com/articles/3781160",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 21时22分]"
+        },
+        {
+          "title": "阿里前高管移民美国丧命",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362657&amp;topic_name=%E9%98%BF%E9%87%8C%E5%89%8D%E9%AB%98%E7%AE%A1%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%E4%B8%A7%E5%91%BD",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 21时22分]"
+        },
+        {
           "title": "美国非农意外强劲，9月加息概率升至约60%，市场紧盯下周CPI",
           "url": "https://wallstreetcn.com/articles/3781130",
           "source": "华尔街见闻",
@@ -69,45 +136,6 @@
           "time_info": "[13时20分 ~ 17时58分]"
         },
         {
-          "title": "世界地图要变,美国投反对票",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362523&amp;topic_name=%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E8%A6%81%E5%8F%98%2C%E7%BE%8E%E5%9B%BD%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 17时58分]"
-        },
-        {
-          "title": "二游反攻日本,企鹅女管出圈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362498&amp;topic_name=%E4%BA%8C%E6%B8%B8%E5%8F%8D%E6%94%BB%E6%97%A5%E6%9C%AC%2C%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%87%BA%E5%9C%88",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 17时58分]"
-        },
-        {
-          "title": "日本求拆菊花纹章遭俄拒绝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362497&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%B1%82%E6%8B%86%E8%8F%8A%E8%8A%B1%E7%BA%B9%E7%AB%A0%E9%81%AD%E4%BF%84%E6%8B%92%E7%BB%9D",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 17时58分]"
-        },
-        {
           "title": "OpenAI称已聘用三名人员，专门负责美国各州的政策事务。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3160898",
           "source": "华尔街见闻-快讯",
@@ -121,29 +149,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 17时58分]"
-        },
-        {
-          "title": "阿里前高管移民美国丧命",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362657&amp;topic_name=%E9%98%BF%E9%87%8C%E5%89%8D%E9%AB%98%E7%AE%A1%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%E4%B8%A7%E5%91%BD",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 17时58分]"
-        },
-        {
-          "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
-          "url": "https://wallstreetcn.com/articles/3781160",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 17时58分]"
         },
         {
           "title": "美国8月非农表面强劲，实际有多少“水分”？",
@@ -207,6 +212,39 @@
           "time_info": "08时25分"
         },
         {
+          "title": "乌克兰总统泽连斯基：欧洲安全顾问将参与周日与美国特使在基辅举行的结束俄乌冲突的谈判。会议已开始。",
+          "url": "https://flash.jin10.com/detail/20260906204927506800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "特朗普：加拿大对美国的货币美元汇率失衡是不可接受的。",
+          "url": "https://wallstreetcn.com/livenews/3160970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美国能源部长赖特：（谈霍尔木兹过境安全）尚未恢复至战前水平。 霍尔木兹海峡目前每日平均过境900万桶。 船舶通过霍尔木兹海峡需要美国军方护航。",
+          "url": "https://wallstreetcn.com/livenews/3160969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "阿里前高管在美国失踪半月后确认身亡",
           "url": "https://www.toutiao.com/trending/7682030192344433161/",
           "source": "今日头条",
@@ -216,6 +254,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
+          "url": "https://www.cls.cn/detail/2475058",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 21时22分]"
+        },
+        {
+          "title": "加拿大最新民调：约八成受访者支持反制美国",
+          "url": "https://news.ifeng.com/c/8wBxmD42GDy",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 21时22分]"
         },
         {
           "title": "对话｜“林肯”号航母水兵父亲：儿子被以色列当枪，美国政客却在分赃",
@@ -277,17 +338,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时50分 ~ 08时25分]"
-        },
-        {
-          "title": "加拿大最新民调：约八成受访者支持反制美国",
-          "url": "https://news.ifeng.com/c/8wBxmD42GDy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 17时58分]"
         },
         {
           "title": "普京：俄罗斯尚未与乌克兰讨论扩大停火",
@@ -365,6 +415,18 @@
           "time_info": "[04时50分 ~ 08时25分]"
         },
         {
+          "title": "周末要闻汇总：七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》； 美国8月非农就业人数意外大增16.2万人",
+          "url": "https://www.cls.cn/detail/2475115",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 21时22分]"
+        },
+        {
           "title": "美国『林肯』号航母现身油漆脱落、遍布锈迹，这在航母日常维护中属于正常现象吗？",
           "url": "https://www.zhihu.com/question/2079118182971920391",
           "source": "知乎",
@@ -400,17 +462,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 08时25分]"
-        },
-        {
-          "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
-          "url": "https://www.cls.cn/detail/2475058",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 17时58分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：已就和平解决制定了一系列方案。",
@@ -483,17 +534,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 08时25分]"
-        },
-        {
-          "title": "周末要闻汇总：七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》； 美国8月非农就业人数意外大增16.2万人",
-          "url": "https://www.cls.cn/detail/2475115",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 17时58分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：普京告诉美国总统特使，俄罗斯将实现其目标，冲突的根本原因需要得到解决。",
@@ -671,7 +711,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -709,6 +749,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "美国中期选举或成伊朗战争的关键转折点",
+          "url": "https://flash.jin10.com/detail/20260906195637459800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "美国中央司令部：美国对伊朗发射弹道导弹袭击两艘美国海军军舰作出反击。",
           "url": "https://flash.jin10.com/detail/20260905214140960800",
           "source": "金十数据",
@@ -729,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "波兰武装部队作战指挥部：正在核实一不明物体从白俄罗斯接近波兰空域的涉嫌违规行为。",
+          "url": "https://flash.jin10.com/detail/20260906195048225800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美国中央司令部：美国军队袭击了三艘伊朗原油运输船。",
@@ -764,6 +826,28 @@
           "time_info": "04时50分"
         },
         {
+          "title": "美国中央司令部：截至9月6日，美国军队已重新引导92艘商船，禁用3艘并登船检查2艘，以确保严格遵守规定。",
+          "url": "https://flash.jin10.com/detail/20260906194517048800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "全球首个乙肝功能性治愈新药日本获批，慢性乙肝患者这下真能摆脱终身服药了吗？",
+          "url": "https://www.zhihu.com/question/2075883163637604395",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "俄罗斯总统普京：这样的接触总是有益的，与你们（威特科夫和库什纳）合作对我们来说很方便。",
           "url": "https://flash.jin10.com/detail/20260906013949120800",
           "source": "金十数据",
@@ -775,6 +859,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "美国中央司令部：一架美国空军F-35A隐形战斗机在区域水域巡逻中央司令部部队继续对伊朗实施海上封锁。",
+          "url": "https://flash.jin10.com/detail/20260906194507340800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "俄罗斯总统普京：今日将（与美国特使）讨论俄乌冲突的所有方面。",
           "url": "https://flash.jin10.com/detail/20260906013758284800",
           "source": "金十数据",
@@ -784,6 +879,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "美国国家飓风中心：洛威尔（Lowell）目前正向北偏西移动，空军预备役飓风猎人发现洛威尔仍为三级飓风。",
+          "url": "https://flash.jin10.com/detail/20260906193924803800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "日本将加强对银行向海外非银行贷款机构贷款的审查",
@@ -814,7 +920,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -836,7 +942,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -863,13 +969,35 @@
           "time_info": "02时42分"
         },
         {
+          "title": "伊朗军方：已展示新抵抗模式 不会向美国投降",
+          "url": "https://flash.jin10.com/detail/20260906191430100800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "普京开始与美国总统特使会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34018082",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "美国国家飓风中心：玛丽（Marie）预计今天晚些时候将开始减弱。",
           "url": "https://flash.jin10.com/detail/20260906164912403800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -883,6 +1011,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "黎巴嫩总统：我们要求美国和国际社会采取行动，制止以色列这些侵犯行为，并追究其责任。",
+          "url": "https://flash.jin10.com/detail/20260906185523170800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "深圳为何会被美国媒体和学界倍加青睐",
@@ -916,6 +1055,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "据知情人士透露，英国、法国和德国国家安全顾问已抵达基辅，准备与美国特使进行会谈。",
+          "url": "https://flash.jin10.com/detail/20260906184822133800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美国称摧毁3艘伊朗油轮",
