@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T02:46:05.819031+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-09-07T04:58:33.024088+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 41,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时58分]"
         },
         {
           "title": "阿里前高管移民美国丧命",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时58分]"
         },
         {
           "title": "特朗普：加拿大对美国的货币美元汇率失衡是不可接受的。",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时58分]"
         },
         {
           "title": "美国能源部长赖特：（谈霍尔木兹过境安全）尚未恢复至战前水平。 霍尔木兹海峡目前每日平均过境900万桶。 船舶通过霍尔木兹海峡需要美国军方护航。 天然气价格更可能下跌而不是上涨。 美国正推动委内瑞拉提高炼油产能。",
@@ -48,8 +48,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 02时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 04时58分]"
+        },
+        {
+          "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
+          "url": "https://www.cls.cn/detail/2475058",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时58分]"
         },
         {
           "title": "美国总统特使威特科夫：我们寻求通过外交手段解决这一冲突，而非通过武力手段。",
@@ -69,9 +81,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "德国选择党主席魏德尔：（谈俄乌冲突）我们始终对外交渠道持开放态度。我们需要与俄罗斯保持畅通的沟通渠道才能达成谅解并找到和平解决方案。",
+          "url": "https://flash.jin10.com/detail/20260907043754247800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         },
         {
           "title": "特朗普女婿库什纳：希望乌克兰、俄罗斯和美国举行的会谈能够恢复三边形式。",
@@ -91,7 +114,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -105,18 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
-          "url": "https://www.cls.cn/detail/2475058",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时46分]"
         },
         {
           "title": "美国总统特使威特科夫：对莫斯科和基辅的和平谈判感到乐观。",
@@ -136,7 +147,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -159,8 +170,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时58分]"
         },
         {
           "title": "周末要闻汇总：七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》； 美国8月非农就业人数意外大增16.2万人",
@@ -171,19 +182,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时58分]"
         },
         {
           "title": "全球首个乙肝功能性治愈新药日本获批，慢性乙肝患者这下真能摆脱终身服药了吗？",
           "url": "https://www.zhihu.com/question/2075883163637604395",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时58分]"
+        },
+        {
+          "title": "世界地图要变,美国投反对票",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362523&amp;topic_name=%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E8%A6%81%E5%8F%98%2C%E7%BE%8E%E5%9B%BD%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 04时58分]"
         },
         {
           "title": "普京开始与美国总统特使会谈",
@@ -192,17 +215,6 @@
           "ranks": [
             18,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时46分]"
-        },
-        {
-          "title": "世界地图要变,美国投反对票",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362523&amp;topic_name=%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E8%A6%81%E5%8F%98%2C%E7%BE%8E%E5%9B%BD%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8",
-          "source": "贴吧",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -237,7 +249,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -259,7 +271,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -281,7 +293,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -303,7 +315,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -314,7 +326,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -347,9 +359,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "美国交通部长达菲：因一架亚马逊货运飞机冲出跑道，我们已在迈阿密国际机场全面停航，应急人员正在评估现场情况。",
+          "url": "https://flash.jin10.com/detail/20260907033407791800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         },
         {
           "title": "美国总统特使威特科夫：我们先会见了俄罗斯总统普京，需要摸清他的立场。我们与他开展了务实深入的会谈，并将相关情况告知了泽连斯基。我们有信心此事能够得到妥善解决。",
@@ -358,9 +381,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "美国联邦航空管理局：（冲出跑道的）是一架波音767-300货机，该机从波多黎各圣胡安的路易斯·穆尼奥斯·马林国际机场起飞。",
+          "url": "https://flash.jin10.com/detail/20260907032454372800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        },
+        {
+          "title": "美国联邦航空管理局：将对迈阿密国际机场发生的飞机冲出跑道事件展开调查。",
+          "url": "https://flash.jin10.com/detail/20260907032130143800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         },
         {
           "title": "美国可能将防空系统从伊拉克库尔德地区转移至......",
@@ -372,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美国总统特朗普：我这么做是为了国家，不是为我自己。我为美国赚了数千亿美元的股票收益以及其他类型的资产，可换来的是激进左翼民主党人的不断批评。真是太不公平了，但能怎么办呢！（配图显示特朗普坐在椭圆形办公室办公桌前，面前交易画面显示“买入：英特尔20美元；当前价格 95美元”。）",
+          "url": "https://flash.jin10.com/detail/20260907031822624800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         },
         {
           "title": "美国国家飓风中心：玛丽（Marie）将继续在接下来的几天内给下加州和南加州沿海带来一两天的大浪和危险海况。",
@@ -391,9 +447,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书：我们保留对美军袭击库赫斯塔克一场婚礼作出回应的权利，美国人应该明白这一点。",
+          "url": "https://flash.jin10.com/detail/20260907031624972800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         },
         {
           "title": "美国国家飓风中心：卡里娜（Karina）预计今晚将减弱为后热带风暴。",
@@ -418,6 +485,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "美国联邦航空管理局：一架货运飞机在迈阿密机场降落之后滑出跑道。",
+          "url": "https://flash.jin10.com/detail/20260907031346463800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        },
+        {
           "title": "特朗普女婿库什纳：特朗普政府将竭尽全力结束乌克兰与俄罗斯之间的战争。",
           "url": "https://flash.jin10.com/detail/20260906223215744800",
           "source": "金十数据",
@@ -440,6 +518,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "美国总统特朗普在社交平台发布图片，显示石油通过霍尔木兹海峡的流量已恢复到冲突前的水平。冲突前，每天有2000万桶石油通过该海峡，现在这一数字已达到每天1800万桶。",
+          "url": "https://flash.jin10.com/detail/20260907031133931800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        },
+        {
           "title": "美国特使与泽连斯基谈判结束",
           "url": "https://flash.jin10.com/detail/20260906222226191800",
           "source": "金十数据",
@@ -457,9 +546,48 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "美国总统特朗普在社交平台发布图片，称伊朗货币已被摧毁。图片显示伊朗里亚尔汇率跌至约227万里亚尔兑1美元。",
+          "url": "https://flash.jin10.com/detail/20260907030956975800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        },
+        {
+          "title": "美国总统特朗普在社交平台发布图片，称伊朗正遭受严重的通货膨胀。",
+          "url": "https://flash.jin10.com/detail/20260907030854821800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "石油 大豆 猪肉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗国家石油产品精炼与分配公司总经理：我们每天平均缺少1000万升汽油。不过，与去年相比，消费量并没有增加。汽油价格上调后，第一档与第二档配额价格仍保持不变，分别为1500土曼与3000土曼，但第三档配额的价格将提高至每升10万伊朗里亚尔；逐步调整的价格仅适用于进口汽油。另外，计划规定政府官员每周有一天不得使用汽车。",
+          "url": "https://flash.jin10.com/detail/20260907034149183800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         }
       ]
     }
