@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T04:58:33.024088+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-09-07T06:41:18.748444+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时41分]"
         },
         {
           "title": "阿里前高管移民美国丧命",
@@ -26,30 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 04时58分]"
-        },
-        {
-          "title": "特朗普：加拿大对美国的货币美元汇率失衡是不可接受的。",
-          "url": "https://wallstreetcn.com/livenews/3160970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时58分]"
-        },
-        {
-          "title": "美国能源部长赖特：（谈霍尔木兹过境安全）尚未恢复至战前水平。 霍尔木兹海峡目前每日平均过境900万桶。 船舶通过霍尔木兹海峡需要美国军方护航。 天然气价格更可能下跌而不是上涨。 美国正推动委内瑞拉提高炼油产能。",
-          "url": "https://wallstreetcn.com/livenews/3160969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时41分]"
         },
         {
           "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
@@ -60,8 +38,32 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时41分]"
+        },
+        {
+          "title": "特朗普：加拿大对美国的货币美元汇率失衡是不可接受的。",
+          "url": "https://wallstreetcn.com/livenews/3160970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时36分 ~ 04时58分]"
+          "time_info": "[00时36分 ~ 06时41分]"
+        },
+        {
+          "title": "美国能源部长赖特：（谈霍尔木兹过境安全）尚未恢复至战前水平。 霍尔木兹海峡目前每日平均过境900万桶。 船舶通过霍尔木兹海峡需要美国军方护航。 天然气价格更可能下跌而不是上涨。 美国正推动委内瑞拉提高炼油产能。",
+          "url": "https://wallstreetcn.com/livenews/3160969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 06时41分]"
         },
         {
           "title": "美国总统特使威特科夫：我们寻求通过外交手段解决这一冲突，而非通过武力手段。",
@@ -84,17 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
-        },
-        {
-          "title": "德国选择党主席魏德尔：（谈俄乌冲突）我们始终对外交渠道持开放态度。我们需要与俄罗斯保持畅通的沟通渠道才能达成谅解并找到和平解决方案。",
-          "url": "https://flash.jin10.com/detail/20260907043754247800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
         },
         {
           "title": "特朗普女婿库什纳：希望乌克兰、俄罗斯和美国举行的会谈能够恢复三边形式。",
@@ -152,6 +143,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "加拿大最新民调：约八成受访者支持反制美国",
+          "url": "https://news.ifeng.com/c/8wBxmD42GDy",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时41分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：美国人和欧洲人都注意到乌克兰变得更加强大了。",
           "url": "https://flash.jin10.com/detail/20260907000459419800",
           "source": "金十数据",
@@ -163,27 +165,40 @@
           "time_info": "00时36分"
         },
         {
-          "title": "加拿大最新民调：约八成受访者支持反制美国",
-          "url": "https://news.ifeng.com/c/8wBxmD42GDy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 04时58分]"
-        },
-        {
           "title": "周末要闻汇总：七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》； 美国8月非农就业人数意外大增16.2万人",
           "url": "https://www.cls.cn/detail/2475115",
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时41分]"
+        },
+        {
+          "title": "世界地图要变,美国投反对票",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362523&amp;topic_name=%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E8%A6%81%E5%8F%98%2C%E7%BE%8E%E5%9B%BD%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 06时41分]"
+        },
+        {
+          "title": "德国选择党主席魏德尔：（谈俄乌冲突）我们始终对外交渠道持开放态度。我们需要与俄罗斯保持畅通的沟通渠道才能达成谅解并找到和平解决方案。",
+          "url": "https://flash.jin10.com/detail/20260907043754247800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时41分]"
         },
         {
           "title": "全球首个乙肝功能性治愈新药日本获批，慢性乙肝患者这下真能摆脱终身服药了吗？",
@@ -192,17 +207,6 @@
           "ranks": [
             14,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 04时58分]"
-        },
-        {
-          "title": "世界地图要变,美国投反对票",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362523&amp;topic_name=%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E8%A6%81%E5%8F%98%2C%E7%BE%8E%E5%9B%BD%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8",
-          "source": "贴吧",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -342,6 +346,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "市场消息：美国迈阿密-戴德县警长称，亚马逊货机冲出跑道撞上附近道路上的车辆的事故中，至少5人确认死亡。",
+          "url": "https://flash.jin10.com/detail/20260907052836379800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "美能源部长：美国海军将继续护航霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260906234334033800",
           "source": "金十数据",
@@ -370,9 +385,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "伊朗外交部：美国发动战争却让全世界买单",
+          "url": "https://flash.jin10.com/detail/20260907052139371800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "美国总统特使威特科夫：我们先会见了俄罗斯总统普京，需要摸清他的立场。我们与他开展了务实深入的会谈，并将相关情况告知了泽连斯基。我们有信心此事能够得到妥善解决。",
@@ -392,9 +418,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "英媒：欧洲未能有效遏制俄罗斯的“混合战争”",
+          "url": "https://flash.jin10.com/detail/20260907050052351800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "美国联邦航空管理局：将对迈阿密国际机场发生的飞机冲出跑道事件展开调查。",
@@ -403,7 +440,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -425,9 +462,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：我们或许更倾向于某些谈判形式，但更糟糕的是根本没有谈判形式。我要感谢美国中东问题特使威特科夫和特朗普女婿库什纳今天在重启谈判进程中所发挥的作用。美国团队与俄罗斯领导人会面，今天又与我会面，讨论了所有可能性，这一点非常重要。我们举行了有欧洲代表参加的三方会谈，以及国家安全顾问会议，我认为我们将尽一切努力恢复谈判。",
+          "url": "https://flash.jin10.com/detail/20260907044059170800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "美国国家飓风中心：玛丽（Marie）将继续在接下来的几天内给下加州和南加州沿海带来一两天的大浪和危险海况。",
@@ -458,9 +506,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "德国选择党主席魏德尔：我们需要与俄罗斯保持良好关系，尤其需要与美国保持良好关系。现在我们看到，美国正在向莫斯科派遣代表，在莫斯科和基辅之间进行斡旋。这原本可能是德国可以发挥的作用。",
+          "url": "https://flash.jin10.com/detail/20260907043948283800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "美国国家飓风中心：卡里娜（Karina）预计今晚将减弱为后热带风暴。",
@@ -491,7 +550,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -524,7 +583,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -557,7 +616,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -568,7 +627,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         }
@@ -585,7 +644,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         }
