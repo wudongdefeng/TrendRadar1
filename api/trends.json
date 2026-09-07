@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T13:29:40.749339+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-09-07T19:07:49.282811+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 75,
+      "match_count": 84,
       "titles": [
         {
           "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
@@ -24,11 +24,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 13时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 19时07分]"
         },
         {
           "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
@@ -106,7 +107,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -157,6 +158,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "美国护士勒死子女,总统怒批",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362905&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%8A%A4%E5%A3%AB%E5%8B%92%E6%AD%BB%E5%AD%90%E5%A5%B3%2C%E6%80%BB%E7%BB%9F%E6%80%92%E6%89%B9",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "特朗普女婿库什纳：美国正在构建“和平方案”。",
           "url": "https://flash.jin10.com/detail/20260907000620611800",
           "source": "金十数据",
@@ -190,13 +202,24 @@
           "time_info": "02时46分"
         },
         {
+          "title": "台湾演员庞祥麟去世 曾出演《一剪梅》",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%BC%94%E5%91%98%E5%BA%9E%E7%A5%A5%E9%BA%9F%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%87%BA%E6%BC%94%E3%80%8A%E4%B8%80%E5%89%AA%E6%A2%85%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "美国穿梭外交“形式大于实质”",
           "url": "https://news.ifeng.com/c/8wDbNj0ljZe",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -229,7 +252,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -309,7 +332,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -342,7 +365,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -375,7 +398,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -386,7 +409,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -430,7 +453,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -441,7 +464,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -463,9 +486,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "狂抛美债护日元！日本8月外汇储备创史上最大降幅",
+          "url": "https://www.cls.cn/detail/2475541",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "伊朗革命卫队发言人：美国将为其对伊朗的经济战付出更沉重的代价。",
@@ -485,9 +519,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "飞机上一拳打没全家美国签证",
+          "url": "https://s.weibo.com/weibo?q=%E9%A3%9E%E6%9C%BA%E4%B8%8A%E4%B8%80%E6%8B%B3%E6%89%93%E6%B2%A1%E5%85%A8%E5%AE%B6%E7%BE%8E%E5%9B%BD%E7%AD%BE%E8%AF%81&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "市场消息：美国迈阿密-戴德县警长称，亚马逊货机冲出跑道撞上附近道路上的车辆的事故中，至少5人确认死亡。",
@@ -551,9 +596,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "9 月 7 日至 12 日中国人民解放军陆军派出兵力赴俄罗斯参加实兵演习，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2079279942580418480",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "美国总统特使威特科夫：我们先会见了俄罗斯总统普京，需要摸清他的立场。我们与他开展了务实深入的会谈，并将相关情况告知了泽连斯基。我们有信心此事能够得到妥善解决。",
@@ -565,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "特朗普给美国总统从夯到拉排名",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E6%8E%92%E5%90%8D%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "美国联邦航空管理局：（冲出跑道的）是一架波音767-300货机，该机从波多黎各圣胡安的路易斯·穆尼奥斯·马林国际机场起飞。",
@@ -609,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "欧盟委员会发言人：我们对俄罗斯和乌克兰的立场没有改变。",
+          "url": "https://flash.jin10.com/detail/20260907182329921800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "美国可能将防空系统从伊拉克库尔德地区转移至......",
@@ -831,6 +909,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "欧盟委员会发言人：乌克兰财政部长在与欧盟委员会的通话中，已提出将冻结的俄罗斯资产转移至欧盟的议题。",
+          "url": "https://flash.jin10.com/detail/20260907181922644800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "美国总统特朗普在社交平台发布图片，称伊朗正遭受严重的通货膨胀。",
           "url": "https://flash.jin10.com/detail/20260907030854821800",
           "source": "金十数据",
@@ -840,6 +929,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "UP主和网恋奔现的美国女孩求婚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%92%8C%E7%BD%91%E6%81%8B%E5%A5%94%E7%8E%B0%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%A9%E6%B1%82%E5%A9%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         }
       ]
     },
