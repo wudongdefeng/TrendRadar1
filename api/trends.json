@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T08:32:55.616955+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-09-07T13:29:40.749339+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 63,
+      "match_count": 75,
       "titles": [
         {
           "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
@@ -23,11 +23,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362657&amp;topic_name=%E9%98%BF%E9%87%8C%E5%89%8D%E9%AB%98%E7%AE%A1%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%E4%B8%A7%E5%91%BD",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 08时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 13时29分]"
         },
         {
           "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
@@ -97,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "日本40年期国债收益率上升7个基点至4.1%。",
+          "url": "https://wallstreetcn.com/livenews/3161108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "周末要闻汇总：七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》； 美国8月非农就业人数意外大增16.2万人",
@@ -178,6 +190,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "美国穿梭外交“形式大于实质”",
+          "url": "https://news.ifeng.com/c/8wDbNj0ljZe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：美国人和欧洲人都注意到乌克兰变得更加强大了。",
           "url": "https://flash.jin10.com/detail/20260907000459419800",
           "source": "金十数据",
@@ -195,9 +218,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "日本7月同步指标月率初值 1.7%，前值0.6%。",
+          "url": "https://flash.jin10.com/detail/20260907130100183800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "德国选择党主席魏德尔：（谈俄乌冲突）我们始终对外交渠道持开放态度。我们需要与俄罗斯保持畅通的沟通渠道才能达成谅解并找到和平解决方案。",
@@ -269,6 +303,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "日本7月同步指标初值 120.6，预期120.3，前值118.5。",
+          "url": "https://flash.jin10.com/detail/20260907130051863800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：美国与乌克兰团队讨论了基辅的安全和经济保障以及繁荣计划。",
           "url": "https://flash.jin10.com/detail/20260907000349465800",
           "source": "金十数据",
@@ -291,6 +336,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "日本7月领先指标月率初值 1.7%，前值0%。",
+          "url": "https://flash.jin10.com/detail/20260907130044368800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：美国与乌克兰团队讨论了防空导弹供应及冬季支持方案。",
           "url": "https://flash.jin10.com/detail/20260907000325817800",
           "source": "金十数据",
@@ -311,6 +367,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "日本7月领先指标初值 117.9，预期118，前值116.5。",
+          "url": "https://flash.jin10.com/detail/20260907130035992800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "扎哈罗娃：日本有“病”别传染给他国",
+          "url": "https://www.toutiao.com/trending/7682327334087131182/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国团队的谈判非常重要。希望美国和平谈判代表能够重返基辅。",
@@ -341,9 +419,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "日本7月领先指标初值 117.9，预期 118，前值 116.5。",
+          "url": "https://wallstreetcn.com/livenews/3161096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "日本7月同步指标初值 120.6，预期 120.2，前值 118.5。",
+          "url": "https://wallstreetcn.com/livenews/3161095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "特朗普女婿库什纳：普京对俄罗斯有着不同的愿景，这些愿景在冲突结束后同样可以实现。",
@@ -357,6 +457,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "据国际文传电讯社援引俄罗斯国防部的消息报道称，俄罗斯还袭击了乌克兰伊兹梅尔港口。",
+          "url": "https://flash.jin10.com/detail/20260907124858218800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "伊朗革命卫队发言人：美国将为其对伊朗的经济战付出更沉重的代价。",
           "url": "https://flash.jin10.com/detail/20260906235119937800",
           "source": "金十数据",
@@ -366,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "据国际文传电讯社援引俄罗斯国防部的消息报道称，俄罗斯袭击了乌克兰乔尔诺莫尔斯克港一艘载有军事货物的船只。",
+          "url": "https://flash.jin10.com/detail/20260907124801731800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "市场消息：美国迈阿密-戴德县警长称，亚马逊货机冲出跑道撞上附近道路上的车辆的事故中，至少5人确认死亡。",
@@ -423,6 +545,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "新世界地图要来了，采用平等地球投影法，非洲变得更大，美国投下唯一反对票，背后有着怎样的地缘与文化诉求？",
+          "url": "https://www.zhihu.com/question/2079520295614953390",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "美国总统特使威特科夫：我们先会见了俄罗斯总统普京，需要摸清他的立场。我们与他开展了务实深入的会谈，并将相关情况告知了泽连斯基。我们有信心此事能够得到妥善解决。",
           "url": "https://flash.jin10.com/detail/20260907011957152800",
           "source": "金十数据",
@@ -473,7 +606,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -517,7 +650,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -528,7 +661,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -583,7 +716,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -638,7 +771,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -738,7 +871,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         }
