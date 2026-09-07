@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T04:18:58.419116+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-09-08T07:12:27.450466+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
         {
           "title": "美国护士勒死子女,总统怒批",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 07时12分]"
         },
         {
           "title": "特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 07时12分]"
         },
         {
           "title": "白宫：特朗普永远不会停止为“美国制造”而奋斗。",
@@ -49,8 +49,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 07时12分]"
+        },
+        {
+          "title": "柏林一座少女雕像为何让日本气急败坏",
+          "url": "https://www.baidu.com/s?wd=%E6%9F%8F%E6%9E%97%E4%B8%80%E5%BA%A7%E5%B0%91%E5%A5%B3%E9%9B%95%E5%83%8F%E4%B8%BA%E4%BD%95%E8%AE%A9%E6%97%A5%E6%9C%AC%E6%B0%94%E6%80%A5%E8%B4%A5%E5%9D%8F",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 07时12分]"
         },
         {
           "title": "9 月 7 日至 12 日中国人民解放军陆军派出兵力赴俄罗斯参加实兵演习，有哪些信息值得关注？",
@@ -60,19 +72,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 04时18分]"
-        },
-        {
-          "title": "柏林一座少女雕像为何让日本气急败坏",
-          "url": "https://www.baidu.com/s?wd=%E6%9F%8F%E6%9E%97%E4%B8%80%E5%BA%A7%E5%B0%91%E5%A5%B3%E9%9B%95%E5%83%8F%E4%B8%BA%E4%BD%95%E8%AE%A9%E6%97%A5%E6%9C%AC%E6%B0%94%E6%80%A5%E8%B4%A5%E5%9D%8F",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 07时12分]"
         },
         {
           "title": "UP主和网恋奔现的美国女孩求婚",
@@ -82,8 +83,31 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 07时12分]"
+        },
+        {
+          "title": "阿里前高管移民美国丧命",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362657&amp;topic_name=%E9%98%BF%E9%87%8C%E5%89%8D%E9%AB%98%E7%AE%A1%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%E4%B8%A7%E5%91%BD",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 07时12分]"
+        },
+        {
+          "title": "日本驻印大使捏住鼻子在恒河沐浴",
+          "url": "https://www.toutiao.com/trending/7682681917280682010/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时55分 ~ 04时18分]"
+          "time_info": "[04时18分 ~ 07时12分]"
         },
         {
           "title": "俄罗斯要求关闭德国驻圣彼得堡总领馆",
@@ -98,15 +122,15 @@
           "time_info": "[00时55分 ~ 04时18分]"
         },
         {
-          "title": "阿里前高管移民美国丧命",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362657&amp;topic_name=%E9%98%BF%E9%87%8C%E5%89%8D%E9%AB%98%E7%AE%A1%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%E4%B8%A7%E5%91%BD",
-          "source": "贴吧",
+          "title": "日本驻印度大使恒河沐浴",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A9%BB%E5%8D%B0%E5%BA%A6%E5%A4%A7%E4%BD%BF%E6%81%92%E6%B2%B3%E6%B2%90%E6%B5%B4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            21
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时55分 ~ 04时18分]"
+          "time_info": "[04时18分 ~ 07时12分]"
         },
         {
           "title": "古巴外交部长布鲁诺·罗德里格斯：与美国之间没有任何进展，既没有谈判，也没有任何未来谈判的议程。",
@@ -120,6 +144,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "伦铜创下历史新高！美国“抢铜”叠加智利供应受扰 铜市紧张格局升级",
+          "url": "https://www.cls.cn/detail/2476396",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "拉脱维亚总理：政府计划对来自俄罗斯和白俄罗斯的谷物征收300%关税。",
           "url": "https://flash.jin10.com/detail/20260908001234466800",
           "source": "金十数据",
@@ -131,13 +166,46 @@
           "time_info": "00时55分"
         },
         {
+          "title": "伊朗称与阿曼的霍尔木兹海峡协议即将达成，警告美国：海湾能源资产很脆弱",
+          "url": "https://flash.jin10.com/detail/20260908064815585800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "报道：韩国与美国的协议将包括“在美国修建8座核电站”的计划",
+          "url": "https://wallstreetcn.com/livenews/3161522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "美国家庭为什么没有防盗网",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%AE%B6%E5%BA%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E9%98%B2%E7%9B%97%E7%BD%91&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "俄罗斯驻越南大使馆表示，俄罗斯海军训练舰“佩列科普”号（Perekop）于9月7日至8日停靠越南金兰港。俄方表示，此次访问为进一步加强俄罗斯与越南传统关系。",
           "url": "https://flash.jin10.com/detail/20260908030711163800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -153,15 +221,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "日本驻印大使捏住鼻子在恒河沐浴",
-          "url": "https://www.toutiao.com/trending/7682681917280682010/",
-          "source": "今日头条",
+          "title": "伊朗最高国家安全委员会秘书Mohsen Rezaee（穆赫辛·雷扎伊）：伊朗已经重新校正（武器）针对美国军舰和（位于中东地区的那些）军事基地的态势。",
+          "url": "https://wallstreetcn.com/livenews/3161520",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时18分"
+          "time_info": "07时12分"
         },
         {
           "title": "朝鲜称将以强有力措施回应美国新军事对抗",
@@ -197,13 +265,35 @@
           "time_info": "00时55分"
         },
         {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：近日，华盛顿已从伊朗新型导弹行动中收到明确信号。任何经济战都将遭到回应，伊朗将把波斯湾延伸至美国海上封锁线的区域划为海上禁区。针对美国军舰和军事基地的作战姿态已经发生根本性调整。",
+          "url": "https://flash.jin10.com/detail/20260908055157440800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "周二（美国金融市场长周末归来）亚太盘初，标普500股指期货持平，道指期货跌0.6%，纳指期货跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3161515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "俄称日本有“病”别传染给他国",
           "url": "https://www.douyin.com/hot/2638971",
           "source": "抖音",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -214,9 +304,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：近日，华盛顿已经收到伊朗新型导弹发出的明确警告。 针对经济战，我方将在波斯湾直至封锁圈范围设立海上禁入区。 针对美国军舰与军事基地的作战姿态已完成根本性调整。",
+          "url": "https://wallstreetcn.com/livenews/3161512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "新世界地图要来了，采用平等地球投影法，非洲变得更大，美国投下唯一反对票，背后有着怎样的地缘与文化诉求？",
+          "url": "https://www.zhihu.com/question/2079520295614953390",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "报道：伊朗称经霍尔木兹海峡美国通道安全通行实际上已不可能",
@@ -236,18 +348,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "日本驻印度大使恒河沐浴",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A9%BB%E5%8D%B0%E5%BA%A6%E5%A4%A7%E4%BD%BF%E6%81%92%E6%B2%B3%E6%B2%90%E6%B5%B4%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         }
