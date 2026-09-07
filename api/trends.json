@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T06:41:18.748444+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-09-07T08:32:55.616955+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 56,
+      "match_count": 63,
       "titles": [
         {
           "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 08时32分]"
         },
         {
           "title": "阿里前高管移民美国丧命",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 08时32分]"
         },
         {
           "title": "美国非农“爆表”背后极诡异一幕：98%新增就业来自女性！",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 08时32分]"
         },
         {
           "title": "特朗普：加拿大对美国的货币美元汇率失衡是不可接受的。",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时36分 ~ 06时41分]"
+        },
+        {
+          "title": "加拿大最新民调：约八成受访者支持反制美国",
+          "url": "https://news.ifeng.com/c/8wBxmD42GDy",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 08时32分]"
         },
         {
           "title": "美国能源部长赖特：（谈霍尔木兹过境安全）尚未恢复至战前水平。 霍尔木兹海峡目前每日平均过境900万桶。 船舶通过霍尔木兹海峡需要美国军方护航。 天然气价格更可能下跌而不是上涨。 美国正推动委内瑞拉提高炼油产能。",
@@ -86,6 +97,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "周末要闻汇总：七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》； 美国8月非农就业人数意外大增16.2万人",
+          "url": "https://www.cls.cn/detail/2475115",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 08时32分]"
+        },
+        {
+          "title": "世界地图要变,美国投反对票",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362523&amp;topic_name=%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E8%A6%81%E5%8F%98%2C%E7%BE%8E%E5%9B%BD%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 08时32分]"
         },
         {
           "title": "特朗普女婿库什纳：希望乌克兰、俄罗斯和美国举行的会谈能够恢复三边形式。",
@@ -143,17 +178,6 @@
           "time_info": "02时46分"
         },
         {
-          "title": "加拿大最新民调：约八成受访者支持反制美国",
-          "url": "https://news.ifeng.com/c/8wBxmD42GDy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 06时41分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：美国人和欧洲人都注意到乌克兰变得更加强大了。",
           "url": "https://flash.jin10.com/detail/20260907000459419800",
           "source": "金十数据",
@@ -165,28 +189,15 @@
           "time_info": "00时36分"
         },
         {
-          "title": "周末要闻汇总：七部门联合印发《促进数字化绿色化协同转型发展实施方案（2026-2030年）》； 美国8月非农就业人数意外大增16.2万人",
-          "url": "https://www.cls.cn/detail/2475115",
-          "source": "财联社热门",
+          "title": "日本8月外汇储备 12075亿美元，前值12871亿美元。",
+          "url": "https://flash.jin10.com/detail/20260907075147338800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            10,
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 06时41分]"
-        },
-        {
-          "title": "世界地图要变,美国投反对票",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362523&amp;topic_name=%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E8%A6%81%E5%8F%98%2C%E7%BE%8E%E5%9B%BD%E6%8A%95%E5%8F%8D%E5%AF%B9%E7%A5%A8",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 06时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
         },
         {
           "title": "德国选择党主席魏德尔：（谈俄乌冲突）我们始终对外交渠道持开放态度。我们需要与俄罗斯保持畅通的沟通渠道才能达成谅解并找到和平解决方案。",
@@ -324,6 +335,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "特朗普：喜欢将新墨西哥州改名“新美国”的想法",
+          "url": "https://flash.jin10.com/detail/20260907073904991800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        },
+        {
           "title": "特朗普女婿库什纳：普京对俄罗斯有着不同的愿景，这些愿景在冲突结束后同样可以实现。",
           "url": "https://flash.jin10.com/detail/20260907013622078800",
           "source": "金十数据",
@@ -352,7 +374,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -396,7 +418,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -429,7 +451,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -443,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "日本打车应用Go：涨价未明显影响乘车需求",
+          "url": "https://flash.jin10.com/detail/20260907072515013800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
         },
         {
           "title": "美国可能将防空系统从伊拉克库尔德地区转移至......",
@@ -473,9 +506,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "美国总统特朗普周一日程一览",
+          "url": "https://flash.jin10.com/detail/20260907072209984800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        },
+        {
+          "title": "胡明轩飞赴日本途中看女篮直播",
+          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%98%8E%E8%BD%A9%E9%A3%9E%E8%B5%B4%E6%97%A5%E6%9C%AC%E9%80%94%E4%B8%AD%E7%9C%8B%E5%A5%B3%E7%AF%AE%E7%9B%B4%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
         },
         {
           "title": "美国国家飓风中心：玛丽（Marie）将继续在接下来的几天内给下加州和南加州沿海带来一两天的大浪和危险海况。",
@@ -517,9 +572,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "特朗普4个小时发27张图片：月球是美国的 伊朗地图是特朗普侧脸",
+          "url": "https://flash.jin10.com/detail/20260907071137106800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
         },
         {
           "title": "美国国家飓风中心：卡里娜（Karina）预计今晚将减弱为后热带风暴。",
@@ -564,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美国袭击伊朗船只加剧局势升级风险，油价盘初上涨",
+          "url": "https://flash.jin10.com/detail/20260907070206066800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
         },
         {
           "title": "据塔斯社：俄罗斯表示已在黑海击中乌克兰货船。",
@@ -647,6 +724,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉柴 奇瑞",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "奇瑞董事长幽默回应谁是最强劲对手",
+          "url": "https://www.toutiao.com/trending/7681475050411229203/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时32分"
         }
       ]
     }
