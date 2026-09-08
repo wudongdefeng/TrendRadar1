@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T03:42:58.750127+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-09-09T06:13:03.948871+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 47,
+      "match_count": 69,
       "titles": [
         {
           "title": "伊朗军方称捕获美国无人潜艇",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "韩国执政党党首：只看美国的时代结束了",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "浙江一公司收到美国3.66亿元关税退税",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "据以色列i24记者称，耶路撒冷邮报获悉美国目前正在攻击伊朗油轮。",
@@ -48,7 +48,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -59,9 +59,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "提醒：美国财长贝森特在讲话中描述“民主党人在2026年中期选举中获胜”情况下（共和党总统特朗普）的财政计划。",
+          "url": "https://wallstreetcn.com/livenews/3162184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美国财长贝森特：白宫预算主管Vought和我正在研究降低（预算）赤字的计划。",
+          "url": "https://wallstreetcn.com/livenews/3162183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国国务卿鲁比奥：秘鲁加入特朗普的反贩毒组织“美洲之盾”。",
@@ -81,9 +103,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "美国财长贝森特：从来都对“本届政府过后继续担任公职”不感兴趣。",
+          "url": "https://wallstreetcn.com/livenews/3162182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国克兰西案审判难在哪",
@@ -103,9 +136,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "美国财长贝森特：在某个时间节点，不得不反思（重新讨论）移民问题。 就开放（美国）边境而言，其坏处在于“有毒的移民辩论”。",
+          "url": "https://wallstreetcn.com/livenews/3162181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "伊朗军方称捕获一艘美国无人潜艇",
@@ -115,8 +159,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "韩国用日本碑当地基惹怒日方",
@@ -126,8 +170,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "日本二氯二氢硅为何被认定存在倾销",
@@ -135,11 +179,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "日本饭店规矩多,国人霸气回怼",
@@ -149,8 +194,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "加拿大正式报复美国",
@@ -158,11 +203,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "浙江一公司收到美国3.66亿元关税退税",
@@ -173,8 +219,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "日本外储 8 月录得史上最大降幅，日元兑美元升破 154，汇率创 6 个月新高，其持续升值对市场影响几何？",
@@ -182,11 +228,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "特朗普两天发帖90条：新墨西哥州改名“新美国”，美加墨和格陵兰岛全变成“美国”",
@@ -196,8 +243,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "一图世界｜AI抢走白领饭碗，美国打工人面临“学历贬值”？",
@@ -207,8 +254,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
         },
         {
           "title": "美国护士勒死子女,总统怒批",
@@ -218,8 +265,19 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 06时13分]"
+        },
+        {
+          "title": "特朗普发布新版「美国总统从夯到拉排名」，自己夯爆了，拜登、奥巴马在「失败区」，你怎么看特朗普的排名？",
+          "url": "https://www.zhihu.com/question/2080276423739172027",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时57分 ~ 03时42分]"
+          "time_info": "[06时12分 ~ 06时13分]"
         },
         {
           "title": "赖岳谦：“台独”不配住在中国台湾",
@@ -251,7 +309,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -262,9 +320,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "美国财长贝森特：当我们干预日元时，我拥有很好的判断依据。",
+          "url": "https://flash.jin10.com/detail/20260909053120613800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美国财长谈日元：想跟我对赌尽管来",
+          "url": "https://wallstreetcn.com/livenews/3162179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国财政部：在最新双周报告期内，投资基金买入305.69亿美元2033年8月31日到期的7年期美国国债，此前一个月买入311.04亿美元。",
@@ -273,9 +353,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "美国最高法院驳回密苏里州在11月中期选举中使用共和党绘制的国会选区地图的请求。",
+          "url": "https://flash.jin10.com/detail/20260909052811124800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国7月消费信贷变动 180.62亿美元，预期 113.4亿美元，前值 141.73亿美元。",
@@ -284,9 +375,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "美国商务部长卢特尼克将前往墨西哥，参与贸易对话。 卢特尼克将谈及墨西哥汽车、金属。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3162178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国财政部：在最新双周报告期内，外国投资者买入67.86亿美元2033年8月31日到期的7年期美国国债，此前一个月买入52.42亿美元。",
@@ -295,7 +397,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -311,13 +413,46 @@
           "time_info": "00时57分"
         },
         {
+          "title": "哥伦比亚总统在与美国国务卿鲁比奥会面后表示，哥伦比亚希望成为美国打击毒品走私行动中的首要盟友。",
+          "url": "https://flash.jin10.com/detail/20260909051805636800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "据Politico：据知情人士透露，美国商务部长卢特尼克预计将于当地时间周三与墨西哥总统辛鲍姆及墨西哥经济部长埃布拉德会面，讨论美国对墨西哥汽车和金属产品征收关税等贸易问题。",
+          "url": "https://flash.jin10.com/detail/20260909051721771800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "“新债王”冈拉克：应规避全球 30 年期债券的风险敞口。 美国收益率将继续上升。 美联储基准利率应提高50个基点。 美国两年期收益率与联邦基金利率不同步。",
+          "url": "https://wallstreetcn.com/livenews/3162172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "Meta Platforms(META.O)：Muse将在美国通过iOS、Android以及Muse.ai平台推出，并将很快登陆AI智能眼镜。",
           "url": "https://flash.jin10.com/detail/20260909030311564800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -328,9 +463,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "哥伦比亚与美国签署民用核合作谅解备忘录（MOU）。",
+          "url": "https://wallstreetcn.com/livenews/3162170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "冰岛总理：冰岛被“圈入美国版图”十分荒谬",
@@ -339,9 +485,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国与哥伦比亚进入前所未有的合作阶段。 美国与哥伦比亚在能源、贸易、商务领域有太多的事要做。",
+          "url": "https://wallstreetcn.com/livenews/3162169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国7月消费信贷 180.6亿美元，预期116.5亿美元，前值由141.73亿美元修正为145.6亿美元。",
@@ -350,9 +507,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "美国国务卿鲁比奥在与哥伦比亚总统会晤后表示，安全和繁荣是美哥关系的首要任务。",
+          "url": "https://flash.jin10.com/detail/20260909050900250800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国能源信息署（EIA）：上周美国战略石油储备原油库存下降约120万桶，至2.854亿桶，创1982年以来最低。",
@@ -372,7 +540,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -383,9 +551,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "“新债王”冈拉克：美国2年期收益率与联邦基金利率不同步。",
+          "url": "https://flash.jin10.com/detail/20260909050801089800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国堪萨斯州共和党参议员马歇尔：在总统特朗普威胁禁售庞巴迪飞机后，我将竭力保住庞巴迪在堪萨斯州的1200多个工作岗位。",
@@ -416,7 +595,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -427,9 +606,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "“新债王”冈拉克：避免全球范围内投资30年期债券，美国收益率将继续上升。",
+          "url": "https://flash.jin10.com/detail/20260909050721749800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率4.474%——创2024年以来新高，投标倍数2.72。",
@@ -438,7 +628,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
         },
@@ -460,9 +650,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "Liv Golf在美国新泽西州申请破产，并寻求在（英国）英格兰和威尔士也按照美国第十一章申请破除。",
+          "url": "https://wallstreetcn.com/livenews/3162159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "加拿大总理卡尼：直到最后关头，对方（美国）仍执意要限制我们保护和推广法语以及本国文化的权限。 他们还企图插手我们未来同其他国家的贸易协定。 对方索取过多，付出却极少。 由于无法达成公平协议，我们做出了正确抉择，拒绝接受一份糟糕的协定。 在诸多领域，他们想要的是依附关系，而非真正的经济伙伴关系。",
@@ -474,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国总统特朗普：指示美国总务管理局（GSA）与美国贸易代表办公室（USTR）协作，采取一切必要措施，将原产于加拿大的产品移出美国总务管理局的多项授予计划表。",
+          "url": "https://wallstreetcn.com/livenews/3162156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国战略石油储备的原油库存上周下降约120万桶，降至2.854亿桶，为1982年以来最低水平。",
@@ -498,6 +710,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国官员：作为对多起针对美国海军舰艇的导弹袭击未遂事件的回应，美军打击了多艘与伊斯兰革命卫队（IRGC）有关联的伊朗油轮。",
+          "url": "https://wallstreetcn.com/livenews/3162155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "加拿大总理卡尼：在很大程度上，加拿大正是因应对美国的扩张施压而诞生。 加拿大首任总理约翰·A·麦克唐纳爵士看清了美国扩张主义带来的威胁，奋力促成这片土地的统一。",
           "url": "https://wallstreetcn.com/livenews/3162062",
           "source": "华尔街见闻-快讯",
@@ -509,6 +732,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国国家航空航天局（NASA）围绕加速月球表面科技（研究）征求方案/意见。 NASA本次关注的是发电和氧气提取。",
+          "url": "https://wallstreetcn.com/livenews/3162152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "俄罗斯副总理Dmitry Patrushev：俄罗斯谷物收获量已经超过一年之前的水平。 预计俄罗斯（今年）粮食产量整体上“非常不错”。（国际文传电讯社）",
           "url": "https://wallstreetcn.com/livenews/3162060",
           "source": "华尔街见闻-快讯",
@@ -518,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国特使维特科夫从持有加密资产股权的实体获得1.07亿美元收入",
+          "url": "https://wallstreetcn.com/livenews/3162151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.8%，投标倍数2.61。 拍卖六个月期国债，得标利率3.890%，投标倍数2.88。",
