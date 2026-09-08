@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T10:14:25.247609+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-09-08T15:36:33.387333+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”",
@@ -25,11 +25,23 @@
           "source": "贴吧",
           "ranks": [
             2,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 10时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 15时36分]"
+        },
+        {
+          "title": "韩国执政党党首：只看美国的时代结束了",
+          "url": "https://news.ifeng.com/c/8wF94Iw9dss",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "白宫：特朗普永远不会停止为“美国制造”而奋斗。",
@@ -43,15 +55,27 @@
           "time_info": "00时55分"
         },
         {
+          "title": "日本饭店规矩多,国人霸气回怼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363036&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%A5%AD%E5%BA%97%E8%A7%84%E7%9F%A9%E5%A4%9A%2C%E5%9B%BD%E4%BA%BA%E9%9C%B8%E6%B0%94%E5%9B%9E%E6%80%BC",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "日本诺奖得主遭质疑多篇论文存在图片造假，所属机构回应",
           "url": "https://news.ifeng.com/c/8wET8MZTaCX",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 10时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 15时36分]"
         },
         {
           "title": "阿里前高管移民美国丧命",
@@ -59,11 +83,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 10时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 15时36分]"
         },
         {
           "title": "柏林一座少女雕像为何让日本气急败坏",
@@ -76,6 +101,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 07时12分]"
+        },
+        {
+          "title": "伦铜创下历史新高！美国“抢铜”叠加智利供应受扰 铜市紧张格局升级",
+          "url": "https://www.cls.cn/detail/2476396",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 15时36分]"
         },
         {
           "title": "9 月 7 日至 12 日中国人民解放军陆军派出兵力赴俄罗斯参加实兵演习，有哪些信息值得关注？",
@@ -123,15 +160,28 @@
           "time_info": "[04时18分 ~ 07时12分]"
         },
         {
-          "title": "伦铜创下历史新高！美国“抢铜”叠加智利供应受扰 铜市紧张格局升级",
-          "url": "https://www.cls.cn/detail/2476396",
-          "source": "财联社热门",
+          "title": "为何美国反对修改世界地图",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%9B%BD%E5%8F%8D%E5%AF%B9%E4%BF%AE%E6%94%B9%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE",
+          "source": "bilibili 热搜",
           "ranks": [
+            7,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时12分 ~ 10时14分]"
+          "time_info": "[10时14分 ~ 15时36分]"
+        },
+        {
+          "title": "特朗普发布新版「美国总统从夯到拉排名」，自己夯爆了，拜登、奥巴马在「失败区」，你怎么看特朗普的排名？",
+          "url": "https://www.zhihu.com/question/2080276423739172027",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 15时36分]"
         },
         {
           "title": "俄称日本有“病”别传染给他国",
@@ -158,15 +208,15 @@
           "time_info": "[00时55分 ~ 04时18分]"
         },
         {
-          "title": "为何美国反对修改世界地图",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%9B%BD%E5%8F%8D%E5%AF%B9%E4%BF%AE%E6%94%B9%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE",
-          "source": "bilibili 热搜",
+          "title": "加拿大对美关税今日生效，“将重击美国”",
+          "url": "https://news.ifeng.com/c/8wFaxCLv2kh",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "15时36分"
         },
         {
           "title": "古巴外交部长布鲁诺·罗德里格斯：与美国之间没有任何进展，既没有谈判，也没有任何未来谈判的议程。",
@@ -186,7 +236,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -213,13 +263,24 @@
           "time_info": "07时12分"
         },
         {
+          "title": "外交部：日本应当同军国主义彻底切割 以实际行动取信亚洲邻国和国际社会",
+          "url": "https://flash.jin10.com/detail/20260908151823621800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "日本财务大臣片山皋月：避免对汇率水平发表评论。 自从联合干预以来，对外汇的立场没有改变。 将致力于维持外汇市场有序的运作。 将与美国财政部保持密切沟通。",
           "url": "https://wallstreetcn.com/livenews/3161597",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -241,7 +302,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -290,15 +351,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "特朗普发布新版「美国总统从夯到拉排名」，自己夯爆了，拜登、奥巴马在「失败区」，你怎么看特朗普的排名？",
-          "url": "https://www.zhihu.com/question/2080276423739172027",
-          "source": "知乎",
+          "title": "赖岳谦：美国不愿也不敢同中国开战",
+          "url": "https://www.toutiao.com/trending/7681976775068352539/",
+          "source": "今日头条",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "15时36分"
         },
         {
           "title": "朝鲜称将以强有力措施回应美国新军事对抗",
@@ -318,7 +379,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -373,7 +434,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -411,13 +472,24 @@
           "time_info": "07时12分"
         },
         {
+          "title": "俄罗斯外长拒绝在黑海停止打击民用物资船只的提议。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3161749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "朝鲜称将以强有力措施回应美国",
           "url": "https://www.toutiao.com/trending/7682813428507017766/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -442,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "日经225指数收盘跌1.7%，报65269.33点。 日本东证指数收盘跌1.8%，报4050.33点。 韩国首尔综指收盘跌0.6%，报6954.52点。",
+          "url": "https://wallstreetcn.com/livenews/3161740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     }
