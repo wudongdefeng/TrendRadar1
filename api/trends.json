@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T06:13:03.948871+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-09-09T08:55:16.209512+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 大陆 日本 俄罗斯 台湾",
-      "match_count": 69,
+      "match_count": 80,
       "titles": [
         {
           "title": "伊朗军方称捕获美国无人潜艇",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
         },
         {
           "title": "韩国执政党党首：只看美国的时代结束了",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
         },
         {
           "title": "浙江一公司收到美国3.66亿元关税退税",
@@ -35,11 +35,23 @@
           "source": "今日头条",
           "ranks": [
             5,
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
+        },
+        {
+          "title": "韩国用日本碑当地基惹怒日方",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363131&amp;topic_name=%E9%9F%A9%E5%9B%BD%E7%94%A8%E6%97%A5%E6%9C%AC%E7%A2%91%E5%BD%93%E5%9C%B0%E5%9F%BA%E6%83%B9%E6%80%92%E6%97%A5%E6%96%B9",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
         },
         {
           "title": "据以色列i24记者称，耶路撒冷邮报获悉美国目前正在攻击伊朗油轮。",
@@ -51,6 +63,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "日本饭店规矩多,国人霸气回怼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363036&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%A5%AD%E5%BA%97%E8%A7%84%E7%9F%A9%E5%A4%9A%2C%E5%9B%BD%E4%BA%BA%E9%9C%B8%E6%B0%94%E5%9B%9E%E6%80%BC",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
+        },
+        {
+          "title": "加拿大正式报复美国",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%AD%A3%E5%BC%8F%E6%8A%A5%E5%A4%8D%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            18,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
+        },
+        {
+          "title": "浙江一公司收到美国3.66亿元关税退税",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD3.66%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
+        },
+        {
+          "title": "特朗普两天发帖90条：新墨西哥州改名“新美国”，美加墨和格陵兰岛全变成“美国”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34027849",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
+        },
+        {
+          "title": "一图世界｜AI抢走白领饭碗，美国打工人面临“学历贬值”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34028430",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
+        },
+        {
+          "title": "美国护士勒死子女,总统怒批",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362905&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%8A%A4%E5%A3%AB%E5%8B%92%E6%AD%BB%E5%AD%90%E5%A5%B3%2C%E6%80%BB%E7%BB%9F%E6%80%92%E6%89%B9",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 08时55分]"
         },
         {
           "title": "八家发行人于美国投资级债券市场出售382亿美元债券，融资金额创2026年第三高。",
@@ -70,7 +154,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -81,7 +165,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -114,20 +198,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "美国克兰西案审判难在哪",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%85%8B%E5%85%B0%E8%A5%BF%E6%A1%88%E5%AE%A1%E5%88%A4%E9%9A%BE%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "06时13分"
         },
         {
           "title": "美国财政部：在最新双周报告期内，外国投资者买入87.49亿美元2031年8月31日到期的5年期美国国债，此前一个月买入66.23亿美元。",
@@ -147,25 +220,26 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美国克兰西案审判难在哪",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%85%8B%E5%85%B0%E8%A5%BF%E6%A1%88%E5%AE%A1%E5%88%A4%E9%9A%BE%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 08时55分]"
         },
         {
           "title": "伊朗军方称捕获一艘美国无人潜艇",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E7%A7%B0%E6%8D%95%E8%8E%B7%E4%B8%80%E8%89%98%E7%BE%8E%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%BD%9C%E8%89%87",
           "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
-        },
-        {
-          "title": "韩国用日本碑当地基惹怒日方",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363131&amp;topic_name=%E9%9F%A9%E5%9B%BD%E7%94%A8%E6%97%A5%E6%9C%AC%E7%A2%91%E5%BD%93%E5%9C%B0%E5%9F%BA%E6%83%B9%E6%80%92%E6%97%A5%E6%96%B9",
-          "source": "贴吧",
           "ranks": [
             6
           ],
@@ -187,42 +261,6 @@
           "time_info": "[00时57分 ~ 06时13分]"
         },
         {
-          "title": "日本饭店规矩多,国人霸气回怼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363036&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%A5%AD%E5%BA%97%E8%A7%84%E7%9F%A9%E5%A4%9A%2C%E5%9B%BD%E4%BA%BA%E9%9C%B8%E6%B0%94%E5%9B%9E%E6%80%BC",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
-        },
-        {
-          "title": "加拿大正式报复美国",
-          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%AD%A3%E5%BC%8F%E6%8A%A5%E5%A4%8D%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
-        },
-        {
-          "title": "浙江一公司收到美国3.66亿元关税退税",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%85%AC%E5%8F%B8%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD3.66%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%E9%80%80%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
-        },
-        {
           "title": "日本外储 8 月录得史上最大降幅，日元兑美元升破 154，汇率创 6 个月新高，其持续升值对市场影响几何？",
           "url": "https://www.zhihu.com/question/2080554537186759135",
           "source": "知乎",
@@ -236,48 +274,16 @@
           "time_info": "[00时57分 ~ 06时13分]"
         },
         {
-          "title": "特朗普两天发帖90条：新墨西哥州改名“新美国”，美加墨和格陵兰岛全变成“美国”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34027849",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
-        },
-        {
-          "title": "一图世界｜AI抢走白领饭碗，美国打工人面临“学历贬值”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34028430",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
-        },
-        {
-          "title": "美国护士勒死子女,总统怒批",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362905&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%8A%A4%E5%A3%AB%E5%8B%92%E6%AD%BB%E5%AD%90%E5%A5%B3%2C%E6%80%BB%E7%BB%9F%E6%80%92%E6%89%B9",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 06时13分]"
-        },
-        {
           "title": "特朗普发布新版「美国总统从夯到拉排名」，自己夯爆了，拜登、奥巴马在「失败区」，你怎么看特朗普的排名？",
           "url": "https://www.zhihu.com/question/2080276423739172027",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[06时12分 ~ 08时55分]"
         },
         {
           "title": "赖岳谦：“台独”不配住在中国台湾",
@@ -331,7 +337,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -342,7 +348,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -364,7 +370,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -386,9 +392,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "日本8月货币存量M2同比 2%，前值 2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3162230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美国财政部：在最新双周报告期内，外国投资者买入67.86亿美元2033年8月31日到期的7年期美国国债，此前一个月买入52.42亿美元。",
@@ -400,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "日本8月货币存量M3同比 1.2%，前值 1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3162229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "沙特主权财富基金PIF本周将会见一些华尔街公司。 其中包括阿波罗、黑石、Brookfield、凯雷、KKR、StonePeak，以及美国进出口银行。（Semafor）",
@@ -419,7 +447,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -430,7 +458,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -441,9 +469,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美国官员：特朗普正在考虑针对庞巴迪的选项方案。",
+          "url": "https://wallstreetcn.com/livenews/3162222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "Meta Platforms(META.O)：Muse将在美国通过iOS、Android以及Muse.ai平台推出，并将很快登陆AI智能眼镜。",
@@ -474,9 +513,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美国禁止进口部分加拿大商品 扩大关税范围",
+          "url": "https://flash.jin10.com/detail/20260909080119835800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "冰岛总理：冰岛被“圈入美国版图”十分荒谬",
@@ -496,7 +546,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -518,9 +568,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸： 今日美国财政部公布计划回购的长债规模。",
+          "url": "https://flash.jin10.com/detail/20260909075751094800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美国能源信息署（EIA）：上周美国战略石油储备原油库存下降约120万桶，至2.854亿桶，创1982年以来最低。",
@@ -534,6 +595,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国官员：1月1日起对加拿大汽车征收50%关税的计划仍然保持。 对与加拿大对话保持开放态度。 对加拿大进口商品的禁止范围规模在数十亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3162218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
+        },
+        {
           "title": "美国财政部对伊朗航空业实施新一轮制裁",
           "url": "https://flash.jin10.com/detail/20260909025951590800",
           "source": "金十数据",
@@ -543,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "日本8月广义货币流动性年率 4.4%，前值4.4%。",
+          "url": "https://flash.jin10.com/detail/20260909075524667800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "伊朗革命卫队发言人：我们在凌晨成功猎获美国海军2025年最先进的无人潜艇，这表明没有任何先进技术能够穿透我们在霍尔木兹海峡的监视层。波斯湾的主导权属于我们的科技青年。",
@@ -562,7 +645,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -576,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国官员：将禁止进口部分加拿大乳品及绝大多数酒类产品。",
+          "url": "https://wallstreetcn.com/livenews/3162216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "据美国财经媒体Semafor：消息人士称，沙特公共投资基金（PIF）高层及旗下HUMAIN人工智能公司等企业代表本周将赴纽约，会见阿波罗、黑石、KKR等投资机构及美国进出口银行，寻求投资合作机会。",
@@ -617,9 +711,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "日本8月货币供应M3年率 1.2%，前值1.40%。",
+          "url": "https://flash.jin10.com/detail/20260909075157418800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率4.474%——创2024年以来新高，投标倍数2.72。",
@@ -631,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "日本8月货币供应M2年率 2%，前值2.20%。",
+          "url": "https://flash.jin10.com/detail/20260909075151563800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "加拿大总理：不能允许美国商品免税进入加拿大",
@@ -661,7 +777,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -683,7 +799,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -716,7 +832,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -738,7 +854,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -760,7 +876,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -774,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "中国地震台网自动测定：09月09日06时32分在台湾宜兰县海域附近（北纬24.42度，东经122.49度）发生4.2级左右地震，最终结果以正式速报为准。",
+          "url": "https://wallstreetcn.com/livenews/3162204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         }
       ]
     }
